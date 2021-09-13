@@ -5,7 +5,7 @@
 ## Action types breakdown 
 
 <video width="600px" height="400px" border-style= "solid" border-size= 3px border-color= "#E98305" controls>
-  <source src="https://vidww.s3.us-east-2.amazonaws.com/Clip+8+-+worksheet+1.mp4"type="video/mp4">
+  <source src= "s3://vidww/Clip 8 - worksheet 1.mp4" type="video/mp4">
 </video>
 <span style="color:#E98305;font-size:25px"> **some blue text**</span>
 
