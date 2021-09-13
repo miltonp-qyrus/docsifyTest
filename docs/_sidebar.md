@@ -30,7 +30,7 @@
    
     - **Q-torial**
         - [Introduction](/_webrepo/_Q-torial/_introduction.md)
-        - [Worksheet II](/_webrepo/_Q-torial/_worksheet2-login.md)
+        - [Worksheet II](/_webrepo/_Q-torial/_worksheet2-Login.md)
         - [Worksheet III](/_webrepo/_Q-torial/_worksheet3-MouseVerifiers.md)
         - [Worksheet IV](/_webrepo/_Q-torial/_worksheet4-FormsVerifiers.md)
         - [Worksheet V](/_webrepo/_Q-torial/_worksheet5-DataHandlers.md)

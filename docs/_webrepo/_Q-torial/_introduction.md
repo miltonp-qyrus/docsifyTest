@@ -2,13 +2,14 @@
 
 ### now that you are versed with the Qyrus Test Repository, follow along the Q-torial to further master the test building process.
 
-## Action types breakdown
+## Action types breakdown 
 
-<video width="600px" height="600px" controls>
-  <source src="/_webrepo/_projectcreation/../../_media/_videos/_webVideos/Clip7-Actiontypesoverview.mp4" type="video/mp4">
+<video width="600px" height="400px" border-style= "solid" border-size= 3px border-color= "#E98305" controls>
+  <source src="https://vidww.s3.us-east-2.amazonaws.com/Clip+8+-+worksheet+1.mp4"type="video/mp4">
 </video>
+<span style="color:#E98305;font-size:25px"> **some blue text**</span>
 
-## Introduction - Worksheet I
+## Introduction - Worksheet I 
 
 <video width="600px" height="600px" controls>
   <source src="/_webrepo/_projectcreation/../../_media/_videos/_webVideos/Clip8-worksheet1.mp4" type="video/mp4">
