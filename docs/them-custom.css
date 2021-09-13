@@ -1,0 +1,228 @@
+/* Sidebar
+============================================================================= */
+:root {
+    --sidebar-background                          : var(--base-background-color);
+    --sidebar-border-color                        : ;
+    --sidebar-border-width                        : 0;
+    --sidebar-padding                             : 0 20px;
+    --sidebar-transition-duration                 : var(--duration-fast);
+    --sidebar-width                               : 20rem;
+
+    /* Name */
+    --sidebar-name-background                     : ;
+    --sidebar-name-color                          : #047ED3;
+    --sidebar-name-font-family                    : ;
+    --sidebar-name-font-size                      : var(--font-size-l);
+    --sidebar-name-font-weight                    : normal;
+    --sidebar-name-margin                         : 1.5rem 0 0;
+    --sidebar-name-padding                        : ;
+    --sidebar-name-text-align                     : center;
+
+    /* Nav Headings */
+    --sidebar-nav-strong-border-color             : var(--sidebar-border-color);
+    --sidebar-nav-strong-border-width             : ;
+    --sidebar-nav-strong-color                    : red;
+    --sidebar-nav-strong-font-size                : ;
+    --sidebar-nav-strong-font-weight              : var(--strong-font-weight);
+    --sidebar-nav-strong-margin                   : 1.5em 0 0.5em;
+    --sidebar-nav-strong-padding                  : 0.25em 0;
+    --sidebar-nav-strong-text-transform           : ;
+
+    /* Nav Container */
+    --sidebar-nav-background                      : ;
+    --sidebar-nav-indent                          : 10%;
+    --sidebar-nav-margin                          : 0;
+    --sidebar-nav-padding                         : ;
+
+    /* Nav Links */
+    --sidebar-nav-link-background-color           : ;
+    --sidebar-nav-link-background-color--active   : ;
+    --sidebar-nav-link-background-color--hover    : ;
+    --sidebar-nav-link-background-image           : ;
+    --sidebar-nav-link-background-image--active   : ;
+    --sidebar-nav-link-background-image--hover    : ;
+    --sidebar-nav-link-background-position        : ;
+    --sidebar-nav-link-background-position--active: ;
+    --sidebar-nav-link-background-position--hover : ;
+    --sidebar-nav-link-background-repeat          : ;
+    --sidebar-nav-link-background-size            : ;
+    --sidebar-nav-link-background-size--active    : ;
+    --sidebar-nav-link-background-size--hover     : ;
+    --sidebar-nav-link-border-color               : ;
+    --sidebar-nav-link-border-color--active       : ;
+    --sidebar-nav-link-border-color--hover        : ;
+    --sidebar-nav-link-border-radius              : ;
+    --sidebar-nav-link-border-style               : solid;
+    --sidebar-nav-link-border-style--active       : ;
+    --sidebar-nav-link-border-style--hover        : ;
+    --sidebar-nav-link-border-width               : 0;
+    --sidebar-nav-link-border-width--active       : ;
+    --sidebar-nav-link-border-width--hover        : ;
+    --sidebar-nav-link-color                      : var(--base-color);
+    --sidebar-nav-link-color--active              : ;
+    --sidebar-nav-link-color--hover               :  #047ED3;
+    --sidebar-nav-link-font-weight                : ;
+    --sidebar-nav-link-font-weight--active        : bold;
+    --sidebar-nav-link-font-weight--hover         : ;
+    --sidebar-nav-link-margin                     : ;
+    --sidebar-nav-link-padding                    : 0.25em 0;
+    --sidebar-nav-link-text-decoration            : ;
+    --sidebar-nav-link-text-decoration--active    : ;
+    --sidebar-nav-link-text-decoration--hover     : underline;
+    --sidebar-nav-link-text-decoration-color      :  #047ED3;
+    --sidebar-nav-link-transition                 : ;
+
+    /* Nav Links - Pseudo Content */
+    --sidebar-nav-link-before-content             : ;
+    --sidebar-nav-link-before-content--active     : ;
+    --sidebar-nav-link-before-content-l1          : ;
+    --sidebar-nav-link-before-content-l1--active  : ;
+    --sidebar-nav-link-before-content-l2          : ;
+    --sidebar-nav-link-before-content-l2--active  : ;
+    --sidebar-nav-link-before-content-l3          : ;
+    --sidebar-nav-link-before-content-l3--active  : ;
+    --sidebar-nav-link-before-content-l4          : ;
+    --sidebar-nav-link-before-content-l4--active  : ;
+
+    /* Nav Links - Pseudo Style */
+    --sidebar-nav-link-before-color               : ;
+    --sidebar-nav-link-before-color--active       : ;
+    --sidebar-nav-link-before-color-l1            : ;
+    --sidebar-nav-link-before-color-l1--active    : ;
+    --sidebar-nav-link-before-color-l2            : ;
+    --sidebar-nav-link-before-color-l2--active    : ;
+    --sidebar-nav-link-before-color-l3            : ;
+    --sidebar-nav-link-before-color-l3--active    : ;
+    --sidebar-nav-link-before-color-l4            : ;
+    --sidebar-nav-link-before-color-l4--active    : ;
+    --sidebar-nav-link-before-margin              : 0 0.35em 0 0;
+    --sidebar-nav-link-before-margin-l1           : ;
+    --sidebar-nav-link-before-margin-l2           : ;
+    --sidebar-nav-link-before-margin-l3           : ;
+    --sidebar-nav-link-before-margin-l4           : ;
+
+    /* Nav Page Links */
+    --sidebar-nav-pagelink-background-image             : ;
+    --sidebar-nav-pagelink-background-image--active     : ;
+    --sidebar-nav-pagelink-background-image--collapse   : ;
+    --sidebar-nav-pagelink-background-image--loaded     : ;
+    --sidebar-nav-pagelink-background-position          : ;
+    --sidebar-nav-pagelink-background-position--active  : ;
+    --sidebar-nav-pagelink-background-position--collapse: ;
+    --sidebar-nav-pagelink-background-position--loaded  : ;
+    --sidebar-nav-pagelink-background-repeat            : ;
+    --sidebar-nav-pagelink-background-size              : ;
+    --sidebar-nav-pagelink-padding                      : ;
+    --sidebar-nav-pagelink-transition                   : var(--sidebar-nav-link-transition);
+
+    /* Toggle */
+    --sidebar-toggle-background                   : ;
+    --sidebar-toggle-border-color                 : ;
+    --sidebar-toggle-border-radius                : var(--border-radius-s);
+    --sidebar-toggle-border-style                 : solid;
+    --sidebar-toggle-border-width                 : 0;
+    --sidebar-toggle-height                       : 36px;
+    --sidebar-toggle-icon-color                   : var(--base-color);
+    --sidebar-toggle-icon-height                  : 10px;
+    --sidebar-toggle-icon-stroke-width            : 1px;
+    --sidebar-toggle-icon-width                   : 16px;
+    --sidebar-toggle-offset-left                  : 0;
+    --sidebar-toggle-offset-top                   : calc(35px - (var(--sidebar-toggle-height) / 2));
+    --sidebar-toggle-width                        : 44px;
+
+
+
+    /* Plugin: Search
+    ============================================================================= */
+
+    --search-background                      : ;
+    --search-margin                          : 1.5rem 0 0;
+    --search-padding                         : ;
+
+    /* Clear Button */
+    --search-clear-icon-color1               : transparent;;
+    --search-clear-icon-color2               :  #047ED3;
+
+    /* Input */
+    --search-input-background-color          : ;
+    --search-input-background-color--focus   : ;
+    --search-input-background-image          : ;
+    --search-input-background-image--focus   : ;
+    --search-input-background-position       : ;
+    --search-input-background-position--focus: ;
+    --search-input-background-repeat         : no-repeat;
+    --search-input-background-size           : ;
+    --search-input-background-size--focus    : ;
+    --search-input-border-color              : #047ED3;
+    --search-input-border-radius             : ;
+    --search-input-border-width              : 2px;
+    --search-input-color                     : ;
+    --search-input-font-size                 : ;
+    --search-input-margin                    : ;
+    --search-input-padding                   : 0.5em;
+    --search-input-placeholder-color         : ;
+    --search-input-transition                : ;
+
+    /* Order */
+    --search-flex-order                      : 1;
+
+    /* Results */
+    --search-result-heading-color            : var(--heading-color);
+    --search-result-heading-font-size        : var(--base-font-size);
+    --search-result-heading-font-weight      : normal;
+    --search-result-heading-margin           : 0 0 0.25em;
+    --search-result-item-border-color        : ;
+    --search-result-item-border-style        : solid;
+    --search-result-item-border-width        : 0 0 1px 0;
+    --search-result-item-color--hover        : #047ED3;
+    --search-result-item-font-size           : ;
+    --search-result-item-font-weight         : normal;
+    --search-result-item-margin              : ;
+    --search-result-item-padding             : 1em 0;
+    --search-result-keyword-background       : ;
+    --search-result-keyword-border-radius    : var(--border-radius-s);
+    --search-result-keyword-color            : #047ED3;
+    --search-result-keyword-font-weight      : bold;
+    --search-result-keyword-margin           : 0 0.1em;
+    --search-result-keyword-padding          : 0.2em 0;
+  
+}
+.sidebar-nav li.active>a, .sidebar-nav li.collapse>a {
+    color: #047ED3;
+    /* color:#3AB7BC; */
+}
+
+/* sidebar arrow styling 
+============================================================================ */
+.sidebar-nav li {
+    position: relative;
+    margin: 5%;
+    cursor: pointer;
+  }
+  
+  .sidebar-nav ul:not(.app-sub-sidebar) > li:not(.file)::before {
+    content: '';
+    display: block;
+    position: absolute;
+    top: 11px;
+    left: -12px;
+    height: 7px;
+    width: 7px;
+    /* border-right: 1px solid #505d6b; */
+    border-right: 2px solid  #047ED3;
+    /* border-bottom: 1px solid #505d6b; */
+    border-bottom: 2px solid  #047ED3;
+    transform: rotate(-45deg);
+    transition: transform 0.1s;
+    margin-left: -2%;
+  }
+  
+  .sidebar-nav ul:not(.app-sub-sidebar) > li.open::before {
+    transform: rotate(45deg);
+  }
+  
+  .sidebar-nav ul:not(.app-sub-sidebar) > li.collapse::before {
+    transform: rotate(-45deg);
+  }
+
+  
