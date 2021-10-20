@@ -27,6 +27,6 @@ A script is the automated test that is executed to perform some function.
 
 ## Create a Script
 
-<video width="600px" height="600px" controls>
+<video width="600px" height="400px" controls>
   <source src="/_webrepo/_projectcreation/../../_media/_videos/_webVideos/Clip4-CreateScript.mp4" type="video/mp4">
 </video>

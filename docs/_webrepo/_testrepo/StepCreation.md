@@ -32,7 +32,7 @@ These individual steps are the actions that will take place within the test scri
 
 ## Step Creation page
 
-<video width="600px" height="600px" controls>
+<video width="600px" height="400px" controls>
   <source src="/_webrepo/_projectcreation/../../_media/_videos/_webVideos/Clip5-Stepcreationpage.mp4" type="video/mp4">
 </video>
 
@@ -59,7 +59,7 @@ These individual steps are the actions that will take place within the test scri
 
 ## Steps Overview
 
-<video width="600px" height="600px" controls>
+<video width="600px" height="400px" controls>
   <source src="/_webrepo/_projectcreation/../../_media/_videos/_webVideos/Clip6-Stepsoverview.mp4" type="video/mp4">
 </video>
 

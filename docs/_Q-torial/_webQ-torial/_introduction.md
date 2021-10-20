@@ -1,17 +1,18 @@
-## Qyrus Q-torial
+## Qyrus Web testing Q-torial
 
-### now that you are versed with the Qyrus Test Repository, follow along the Q-torial to further master the test building process.
+Throughout this Q-torial, you will perform a series of web tests which will familiarize you with the Qyrus web testing platform. Follow the videos, and work through the provided worksheets to become more versed with the features and functionality that Qyrus web testing has to offer. Make sure to read the prior documentation and go through project creation and setup, if required, before begenning this tutorial. 
 
 ## Action types breakdown 
+
+This video discusses the array of web action types, many of which we will be using throughout this course. Feel free to refer to the action types documentation page for more detailed explanations on each action type
 
 <video width="600px" height="400px" border-style= "solid" border-size= 3px border-color= "#E98305" controls>
   <source src= "https://vidww.s3.us-east-2.amazonaws.com/Clip+8+-+worksheet+1.mp4">
 </video>
-<span style="color:#E98305;font-size:25px"> **some blue text**</span>
 
 ## Introduction - Worksheet I 
 
-<video width="600px" height="600px" controls>
+<video width="600px" height="400px" controls>
   <source src="/_webrepo/_projectcreation/../../_media/_videos/_webVideos/Clip8-worksheet1.mp4" type="video/mp4">
 </video>
 
@@ -28,9 +29,9 @@ Action types:
 - Click
 - scroll
 
-Step Key
+### Step Key
 
-Step 1
+<u> Step 1 </u>
 
 Action type: Go to url
 
@@ -38,7 +39,7 @@ Description: Go to Qyrus web testing practice page
 
 URL: [https://qyrus.com](https://qyrus.com/)
 
-Step 2
+<u> Step 2 </u>
 
 Action type: click
 
@@ -52,7 +53,7 @@ Locator: Xpath
 
 Locator Value: //div[@id=&#39;button\_five&#39;]
 
-Step 3
+<u> Step 3</u>
 
 Action type: scroll
 
@@ -66,7 +67,7 @@ Locator: Xpath
 
 Locator Value: //h2[contains(text(),&#39;Latest Posts&#39;)]
 
-Step 4
+<u> Step 4 </u>
 
 Action type: click
 
@@ -80,7 +81,7 @@ Locator: ??
 
 Locator Value: //h3[contains(text(),&#39;WHY AUTOMATE MOBILE TESTING? - HOW TO SAVE MONEY &amp;&#39;)]
 
-Step 5
+<u> Step 5 </u>
 
 Action type: scroll
 
@@ -94,7 +95,7 @@ Locator: Xpath
 
 Locator Value: //li[contains(text(),&#39;Directory&#39;)]
 
-Step 6
+<u> Step 6 </u>
 
 Action type: click
 

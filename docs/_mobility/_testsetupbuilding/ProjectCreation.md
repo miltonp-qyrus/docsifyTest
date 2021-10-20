@@ -13,3 +13,10 @@
 
 ![Create Project Image](../../_media/_mobileimages/Mobile_Create_Project.png)
 
+## Build a Project
+
+<video width="600px" height="400px" controls>
+  <source src="/_webrepo/_projectcreation/../../_media/_videos/_webVideos/Clip9-worksheet2.mp4" type="video/mp4">
+</video>
+
+<!-- create project/create suite video -->

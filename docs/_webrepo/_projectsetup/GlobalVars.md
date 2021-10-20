@@ -94,6 +94,6 @@ In order to synthetically generate data, the user must select one of these 6 opt
 
 ## Global Variables
 
-<video width="600px" height="600px" controls>
+<video width="600px" height="400px" controls>
   <source src="/_webrepo/_projectcreation/../../_media/_videos/_webVideos/Clip19-GlobalVariables.mp4" type="video/mp4">
 </video>

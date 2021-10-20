@@ -21,3 +21,11 @@ Test Suites are folders where you can store and organize your test scripts. This
 4. Click on ‘Create Suite’
 
 ![Create Suite 2](../../_media/_mobileimages/Test_Suite_2.png)
+
+## Build Test Suites
+
+<video width="600px" height="400px" controls>
+  <source src="/_webrepo/_projectcreation/../../_media/_videos/_webVideos/Clip9-worksheet2.mp4" type="video/mp4">
+</video>
+
+<!-- create project/create suite video -->

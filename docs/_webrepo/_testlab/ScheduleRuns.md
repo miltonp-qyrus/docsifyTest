@@ -58,7 +58,7 @@ After clicking on ‘Scheduled Runs’, the user will be able:
 
 ## Creating Scheduled Runs
 
-<video width="600px" height="600px" controls>
+<video width="600px" height="400px" controls>
   <source src="/_webrepo/_projectcreation/../../_media/_videos/_webVideos/Clip17-CreatingScheduledruns.mp4" type="video/mp4">
 </video>
 

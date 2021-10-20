@@ -1,6 +1,6 @@
 ## Mouse Events & Verifiers - Worksheet III
 
-<video width="600px" height="600px" controls>
+<video width="600px" height="400px" controls>
   <source src="/_webrepo/_projectcreation/../../_media/_videos/_webVideos/Clip15-Versioning.mp4" type="video/mp4">
 </video>
 
@@ -26,103 +26,105 @@ Action types:
 - Drag and drop
 - Send keys
 
-Step 1
+<u> Step 1 </u>
+
 Go to url
 
 Hint: [https://qyrus.com/qa-test-page](https://qyrus.com/qa-test-page)
 
-Step 2
+<u> Step 2 </u>
+
 Click the first &#39;Click Me&#39; button
 
-Step 3
+<u> Step 3 </u>
 
 Create an alert handler for the pop-up display.
 
 Hint: Alert handlers, &#39;ok&#39;
 
-Step 4
+<u> Step 4 </u>
 
 Right click second &#39;Right click me&#39; button
 
 Hint: mouse events, right click
 
-Step 5
+<u> Step 5 </u>
 
 Create an alert handler for the pop-up display.
 
 Hint: this step is identical to step 3, try using the copy function
 
-Step 6
+<u> Step 6 </u>
 
 Double click third &#39;Double click me&#39; button
 
 Hint: mouse events, double click
 
-Step 7
+<u> Step 7 </u>
 
 Create an alert handler for the pop-up display.
 
 Hint: once again use the copy function for efficiency
 
-Step 8
+<u> Step 8 </u>
 
 Click a given testing type
 
 Hint: we have moved on to a new part of the page, navigate to the testing types and select an item.
 
-Step 9
+<u> Step 9 </u>
 
 Verify that the testing types list contains the previously selected item. Remember you have to verify against something so be sure to fill out the data field with the proper value or in this case, the desired testing type.
 
-Step 10
+<u> Step 10 </u>
 
 Click a given item on the testing types
 
 Hint: This step is almost identical to step 8, therefore copy, paste, and alter the step to your desires.
 
-Step 11
+<u> Step 11 </u>
 
 Verify that the element selected is visible in the testing types list. Because you are only checking for the presence of the desired element, the data column we don&#39;t need to verify against anything and the data column is not necessary.
 
 Hint: verifiers, is visible
 
-Step 12
+<u> Step 12 </u>
 
 Navigate back to the buttons section, and click the final &#39;Click me (wait for element)&#39; button
 
 Hint: refer to step 1 to click
 
-Step 13
+<u> Step 13 </u>
 
 Wait for element. As the final click warrants a new page wait for the sample button display. It is important to note that you will first have to click the button, to find the xpath of the element you are waiting for.
 
 Hint: The data column requires population for the element that we are waiting for, in this case the element is &#39;sample button&#39;
 
-Step 14
+<u> Step 14 </u>
 
 Verify the sample button exists. Another streamlined verification because we are only making sure the element exists, there is nothing to verify against and therefore the data column is rendered unnecessary
 
 Hint: verifiers, element exists.
 
-Step 15
+<u> Step 15 </u>
 
 Scroll to the select Age header.
 
 Hint: mouse event, scroll
 
-Step 16
+<u> Step 16 </u>
 
 Drag and Drop desired age, using the slider. Remember you will have to input the sliders original position (from locator value, and the position to which you would like the slider to go (to locator value).
 
 Hint: mouse event, drag and drop
 
-Step 17
+<u> Step 17 </u>
 
 Click on text box for &#39;Age Value&#39;
 
 Hint: mouse event, click
 
-Step 18
+<u> Step 18 </u>
 
 Send keys. Using the keyboard type &#39;enter&#39; to submit the form rather than clicking the button.
 
@@ -130,7 +132,7 @@ Hint: the data column should contain the desired key on the keyboard, written in
 
 ### Step Key:
 
-Step 1
+<u> Step 1 </u>
 
 Action type: Go to url
 
@@ -138,7 +140,7 @@ Description: Go to Qyrus web testing practice page
 
 URL: [https://qyrus.com/qa-test-page](https://qyrus.com/qa-test-page)
 
-Step 2
+<u> Step 2 </u>
 
 Action type: click
 
@@ -152,7 +154,7 @@ Locator: Xpath
 
 Locator Value: //button[@id=&#39;click-button&#39;]
 
-Step 3
+<u> Step 3 </u>
 
 Action type: Alert handler, Ok
 
@@ -166,7 +168,7 @@ Locator:
 
 Locator Value:
 
-Step 4
+<u> Step 4 </u>
 
 Action type: right click
 
@@ -180,7 +182,7 @@ Locator: Xpath
 
 Locator Value: //button[@id=&#39;right-click-button&#39;]
 
-Step 5
+<u> Step 5 </u>
 
 Action type: Alert handler, Ok
 
@@ -194,7 +196,7 @@ Locator:
 
 Locator Value:
 
-Step 6
+<u> Step 6 </u>
 
 Action type: double click
 
@@ -208,7 +210,7 @@ Locator: Xpath
 
 Locator Value: //button[@id=&#39;dbl-click-button&#39;]
 
-Step 7
+<u> Step 7 </u>
 
 Action type: Alert handler, Ok
 
@@ -222,7 +224,7 @@ Locator:
 
 Locator Value:
 
-Step 8
+<u> Step 8 </u>
 
 Action type: click
 
@@ -236,7 +238,7 @@ Locator: Xpath
 
 Locator Value: //input[@id=&#39;Smoke Test&#39;]
 
-Step 9
+<u> Step 9 </u>
 
 Action type: verify, contains
 
@@ -250,7 +252,7 @@ Locator: Xpath
 
 Locator Value: //p[@id=&#39;smoke-list-item&#39;]
 
-Step 10
+<u> Step 10 </u>
 
 Action type: click
 
@@ -264,7 +266,7 @@ Locator: Xpath
 
 Locator Value: //input[@id=&#39;Integration Test&#39;]
 
-Step 11
+<u> Step 11 </u>
 
 Action type: verify, is visible
 
@@ -278,7 +280,7 @@ Locator: Xpath
 
 Locator Value: //p[@id=&#39;integration-list-item&#39;]
 
-Step 12
+<u> Step 12 </u>
 
 Action type: click
 
@@ -292,7 +294,7 @@ Locator: Xpath
 
 Locator Value: //button[@id=&#39;wait-button&#39;]
 
-Step 13
+<u> Step 13 </u>
 
 Action type: wait for element
 
@@ -306,7 +308,7 @@ Locator: Xpath
 
 Locator Value: //img[@id=&#39;button-logo&#39;]
 
-Step 14
+<u> Step 14 </u>
 
 Action type: verify, element exists
 
@@ -320,7 +322,7 @@ Locator: Xpath
 
 Locator Value: //img[@id=&#39;button-logo&#39;]
 
-Step 15
+<u> Step 15 </u>
 
 Action type: scroll
 
@@ -334,7 +336,7 @@ Locator: Xpath
 
 Locator Value: //label[@id=&#39;age-label&#39;]
 
-Step 16
+<u> Step 16 </u>
 
 Action type: Drag and drop
 
@@ -352,7 +354,7 @@ To Locator Type: Xpath
 
 To Locator Value: //body/app-root[1]/app-qa-test-page[1]/div[1]/form[1]/div[2]/mat-slider[1]/div[1]/div[3]
 
-Step 17
+<u> Step 17 </u>
 
 Action type: Click
 
@@ -366,7 +368,7 @@ Locator: Xpath
 
 Locator Value: //input[@id=&#39;age&#39;]
 
-Step 18
+<u> Step 18 </u>
 
 Action type: send keys
 

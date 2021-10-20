@@ -28,15 +28,6 @@
         - [Reports](/_webrepo/_testrepo/Reports.md)
         - [Versioning and Restoring](/_webrepo/_testrepo/Versioning.md)
    
-    - **Q-torial**
-        - [Introduction](/_webrepo/_Q-torial/_introduction.md)
-        - [Worksheet II](/_webrepo/_Q-torial/_worksheet2-Login.md)
-        - [Worksheet III](/_webrepo/_Q-torial/_worksheet3-MouseVerifiers.md)
-        - [Worksheet IV](/_webrepo/_Q-torial/_worksheet4-FormsVerifiers.md)
-        - [Worksheet V](/_webrepo/_Q-torial/_worksheet5-DataHandlers.md)
-        - [Summary](_webrepo/_Q-torial/_summary.md)
-        
-
     - **Sprints**
         - [Creating Sprints](/_webrepo/_sprints/SprintCreation.md)
         - [Importing Scripts](/_webrepo/_sprints/ImportScripts.md)
@@ -157,7 +148,35 @@
         - [Execution Summary and Reports](_component/_results/ExecutionSummaryReports.md)
         - [Test Reports Table](_component/_results/TestReportsTable.md)
 
+--- 
+
+
+- **Q-Torial**
+    - **Web Testing**
+
+        - [Introduction](_Q-torial/_webQ-torial/_introduction.md)
+        - [Worksheet II](_Q-torial/_webQ-torial/_worksheet2-Login.md)
+        - [Worksheet III](_Q-torial/_webQ-torial/_worksheet3-MouseVerifiers.md)
+        - [Worksheet IV](_Q-torial/_webQ-torial/_worksheet4-FormsVerifiers.md)
+        - [Worksheet V](_Q-torial/_webQ-torial/_worksheet5-DataHandlers.md)
+        - [Summary](_Q-torial/_webQ-torial/_summary.md)
+
+    - **Mobility Testing**
+
+        - [Introduction](_Q-torial/_mobilityQ-torial/_introduction.md)
+        - [Worksheet I](_Q-torial/_mobilityQ-torial/_worksheet1-InspectMode.md)
+        - [Worksheet II](_Q-torial/_mobilityQ-torial/_worksheet2-RecorderMode.md)
+        - [Conclusion](_Q-torial/_mobilityQ-torial/_conclusion.md)
+
+    - **Component Testing**
+        - [Introduction](_Q-torial/_ComponentQ-torial/_introduction.md)
+        - [Import](_Q-torial/_ComponentQ-torial/_first-steps.md)
+        - [Setup](_Q-torial/_ComponentQ-torial/_setup.md)
+        - [Test](_Q-torial/_ComponentQ-torial/_test.md)
+        - [Summary](_Q-torial/_ComponentQ-torial/_summary.md)
+
 ---
+
 
 - **Service Virtualization**
 

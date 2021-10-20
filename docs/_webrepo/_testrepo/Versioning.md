@@ -58,7 +58,7 @@ Navigate to ‘Web Repository’, select desired project, click ‘Test Reposito
 
 ## Versioning and Restoring Scripts
 
-<video width="600px" height="600px" controls>
+<video width="600px" height="400px" controls>
   <source src="/_webrepo/_projectcreation/../../_media/_videos/_webVideos/Clip15-Versioning.mp4" type="video/mp4">
 </video>
 

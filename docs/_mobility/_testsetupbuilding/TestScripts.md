@@ -106,3 +106,11 @@ Once you are connected, you are able to interact with the device using these but
 6. Click on the ‘Green Tilted Phone’ button to disconnect the device
 
 ![interacting Live 2](../../_media/_mobileimages/Test_Script_Interacting_Live_2.png)
+
+##  Build Test Scripts
+
+<video width="600px" height="400px" controls>
+  <source src="/_webrepo/_projectcreation/../../_media/_videos/_webVideos/Clip9-worksheet2.mp4" type="video/mp4">
+</video>
+
+<!-- create script video -->

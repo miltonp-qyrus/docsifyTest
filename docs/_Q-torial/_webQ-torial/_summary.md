@@ -1,6 +1,6 @@
 ## Qyrus Q-torial Summary
 
-<video width="600px" height="600px" controls>
+<video width="600px" height="400px" controls>
   <source src="/_webrepo/_projectcreation/../../_media/_videos/_webVideos/Clip13-Q-torialoutro.mp4" type="video/mp4">
 </video>
 

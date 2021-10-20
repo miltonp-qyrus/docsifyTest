@@ -1,6 +1,6 @@
 ## Forms & Verifiers - Worksheet IV
 
-<video width="600px" height="600px" controls>
+<video width="600px" height="400px" controls>
   <source src="/_webrepo/_projectcreation/../../_media/_videos/_webVideos/Clip11-worksheet4.mp4" type="video/mp4">
 </video>
 
@@ -25,55 +25,55 @@ Action types:
 - Verify url
 - Verify is blank
 
-Step 1
+<u> Step 1 </u>
 
 Go to desired URL.
 
 Hint: [https://qyrus.com/qa-test-page](https://qyrus.com/qa-test-page)
 
-Step 2
+<u> Step 2 </u>
 
 Set nickname. The nickname can be any desired characters or The Dark Knight, to follow along with the test.
 
 Hint: refer to login script
 
-Step 3
+<u> Step 3 </u>
 
 Set the pets name. The pets name can be any characters or name of your choosing, or InspectorGordon1!
 
 Hint: refer to login script
 
-Step 4
+<u> Step 4 </u>
 
 select your favorite animal using the dropdown menu. The first part of this step is to Click the dropdown arrow. Make sure to select the right identifier for the dropdown arrow.
 
 Hint: refer to login script
 
-Step 5
+<u> Step 5 </u>
 
 click dogbear as favorite animal.
 
 Hint: refer to login script
 
-Step 6
+<u> Step 6 </u>
 
 Verify text in the text box matches the selected animal. Make sure to fill every field, especially the data columb with the desired output. Make sure to verify the xpath is pointing to the proper location.
 
 Hint: Action types, verifiers, verify text
 
-Step 7
+<u> Step 7 </u>
 
 Refresh page.
 
 Hint: Action types, windows, refresh
 
-Step 8
+<u> Step 8 </u>
 
 Scroll to Nickname text box. Make sure to select the proper locator value depending on the desired scroll location
 
 Hint: mouse event, scroll
 
-Step 9
+<u> Step 9 </u>
 
 Verify the previously filled text boxes are now empty upon refresh. Verify is blank.
 
@@ -81,7 +81,7 @@ Hint: action types, verify, is blank.
 
 ### Step Key
 
-Step 1
+<u> Step 1 </u>
 
 Action type: Go to url
 
@@ -89,7 +89,7 @@ Description: Go to Qyrus web testing practice page
 
 URL: [https://qyrus.com/qa-test-page](https://qyrus.com/qa-test-page)
 
-Step 2
+<u> Step 2 </u>
 
 Action type: set
 
@@ -103,7 +103,7 @@ Locator: Xpath
 
 Locator Value: //input[@id=&#39;nickName&#39;]
 
-Step 3
+<u> Step 3 </u>
 
 Action type: set
 
@@ -117,7 +117,7 @@ Locator: Xpath
 
 Locator Value: //input[@id=&#39;petName&#39;]
 
-Step 4
+<u> Step 4 </u>
 
 Action type: select dropdown
 
@@ -131,7 +131,7 @@ Locator: Xpath
 
 Locator Value: //select[@id=&#39;animal&#39;]
 
-Step 5
+<u> Step 5 </u>
 
 Action type: click
 
@@ -145,7 +145,7 @@ Locator: Xpath
 
 Locator Value: //option[contains(text(),&#39;Dogbear&#39;)]
 
-Step 6
+<u> Step 6 </u>
 
 Action type: verify text
 
@@ -159,7 +159,7 @@ Locator: Xpath
 
 Locator Value: //select[@id=&#39;animal&#39;]
 
-Step 7
+<u> Step 7 </u>
 
 Action type: refresh
 
@@ -173,7 +173,7 @@ Locator:
 
 Locator Value:
 
-Step 8
+<u> Step 8 </u>
 
 Action type: scroll
 
@@ -185,9 +185,9 @@ Index:
 
 Locator: Xpath
 
-###### Locator value: //input[@id=&#39;nickName&#39;]
+Locator value: //input[@id=&#39;nickName&#39;]
 
-Step 9
+<u> Step 9 </u>
 
 Action type: is blank
 
@@ -199,4 +199,4 @@ Index:
 
 Locator: Xpath
 
-###### Locator Value: //input[@id=&#39;nickName&#39;]
+Locator Value: //input[@id=&#39;nickName&#39;]

@@ -31,6 +31,6 @@ Modules are designed to organize and file test scripts in a way that makes sense
 
 ## Create a Module
 
-<video width="600px" height="600px" controls>
+<video width="600px" height="400px" controls>
   <source src="/_webrepo/_projectcreation/../../_media/_videos/_webVideos/Clip3-Createmodule.mp4" type="video/mp4">
 </video>

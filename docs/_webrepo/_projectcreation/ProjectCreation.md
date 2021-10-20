@@ -12,6 +12,6 @@ Projects are used to organize test scripts. This is the highest level of heirarc
 
 ## Create a Project 
 
-<video width="600px" height="600px" controls>
+<video width="600px" height="400px" controls>
   <source src="/_webrepo/_projectcreation/../../_media/_videos/_webVideos/Clip2-Createaproject.mp4" type="video/mp4">
 </video>

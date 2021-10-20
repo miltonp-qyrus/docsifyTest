@@ -1,0 +1,3 @@
+## Qyrus Component testing
+
+In this Q-torial you will perform a series of actions that will import, connect, and ultimately edit or confirm the desired test steps for a component script. It is important to note that the purpose of component testing is for end-to-end testing purposes meaning you will be using multiple different tests scripts. In this Q-torial we are using a web domain and a mobile application to show the transfer of data between different application forms, and the functionality and simplicity that the Qyrus component testing platform provides in throughout the testing process. 

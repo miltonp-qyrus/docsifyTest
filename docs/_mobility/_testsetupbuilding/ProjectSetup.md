@@ -94,3 +94,11 @@ Click on ‘Global Variables’ to create the variables
 1. Click ‘Save’ to be able to use the variables created
 
 ![Global Variable Image 3](../../_media/_mobileimages/Project_Setup_Global_Variable_3.png)
+
+## Project Setup
+
+<video width="600px" height="400px" controls>
+  <source src="/_webrepo/_projectcreation/../../_media/_videos/_webVideos/Clip9-worksheet2.mp4" type="video/mp4">
+</video>
+
+<!-- create project setup suite video -->

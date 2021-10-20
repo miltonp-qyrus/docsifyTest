@@ -54,3 +54,11 @@ Users can also make a particular step as ***Optional*** and ***Enable/Disable th
 Now you can “Push to Script”
 
 ![Add Steps 8](../../_media/_mobileimages/Add_Steps_8.png)
+
+## Build Steps
+
+<video width="600px" height="400px" controls>
+  <source src="/_webrepo/_projectcreation/../../_media/_videos/_webVideos/Clip9-worksheet2.mp4" type="video/mp4">
+</video>
+
+<!-- create steps video -->
