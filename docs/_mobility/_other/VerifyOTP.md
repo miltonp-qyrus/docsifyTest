@@ -14,27 +14,27 @@ This section will show how to enable the ‘Verify OTP’ action if your scripts
 
 1. In your script, add a step with the action type ‘Verify Otp’
 
-![Verify OTP 1](../../_media/_mobileimages/Verify_1.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_mobileimages/Verify_1.png">
 
 ### Usage
 
 1. Run the script with either ‘Dry Run’ or ‘Execute Run’
 2. Enable the ‘OTP’ option
 
-![Verify OTP 2](../../_media/_mobileimages/Verify_2.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_mobileimages/Verify_2.png">
 
 3. While the script is running, click on the ‘Verify OTP’ button. 
 
-![Verify OTP 3](../../_media/_mobileimages/Verify_3.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_mobileimages/Verify_3.png">
 
 4. Enter the one-time password
 
-![Verify OTP 4](../../_media/_mobileimages/Verify_4.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_mobileimages/Verify_4.png">
 
 5. Click the ‘green checkmark’ button
 
-![Verify OTP 5](../../_media/_mobileimages/Verify_5.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_mobileimages/Verify_5.png">
 
 6. When done successfully, you will see the success message as shown below
 
-![Verify OTP 6](../../_media/_mobileimages/Verify_6.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_mobileimages/Verify_6.png">

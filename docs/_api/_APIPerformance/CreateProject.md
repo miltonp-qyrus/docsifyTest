@@ -11,4 +11,4 @@ Performance Testing includes increasing the load and see how the system behaves 
 1. Checkmark any teammates that will be working on the project
 1. Click ‘Create Project’ 
 
-![](../../../_media/_apiImgs/Aspose.Words.1a0bb08a-a30f-4674-a26b-60d476b195cd.051.png)
+<img src= "https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_apiImgs/Aspose.Words.1a0bb08a-a30f-4674-a26b-60d476b195cd.051.png">

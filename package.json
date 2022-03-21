@@ -1,0 +1,22 @@
+{
+  "name": "qyrus_documentation-main-60fb7642bc122a483a4ca3b0e9baeee327b5c66f",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "dependencies": {
+    "docsify-cli": "^4.4.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://gitlab.quinnox.info/Suraj_P/Documentation_V2.git"
+  },
+  "author": "suraj patel",
+  "license": "ISC"
+}

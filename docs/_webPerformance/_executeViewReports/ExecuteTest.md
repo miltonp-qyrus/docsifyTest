@@ -5,8 +5,8 @@
 ## Execute Tests <!-- {docsify-ignore} --> 
 After a test has been created, the user can click on the ‘Play’ icon associated with that test to begin execution.
 
-![](../../../_media/_webPerformance/Run_Test.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_webPerformance/Run_Test.png">
 
 If the test had a successful start, a pop-up will appear in the bottom right corner of the page that says ‘Test execution started’
 
-![](../../../_media/_webPerformance/Run_Test_2.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_webPerformance/Run_Test_2.png">

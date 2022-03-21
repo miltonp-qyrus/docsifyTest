@@ -1,7 +1,7 @@
 ## Inspect mode - Worksheet I
 
 <video width="600px" height="400px" controls>
-  <source src="/_webrepo/_projectcreation/../../_media/_videos/_webVideos/Clip9-worksheet2.mp4" type="video/mp4">
+  <source src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/Mobile/Clip6-Inspectmode.mp4" type="video/mp4">
 </video>
 
 ### Description:

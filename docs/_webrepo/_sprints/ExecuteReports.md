@@ -24,7 +24,7 @@ Navigate to ‘Web Repository’, select desired project, select desired ‘Spri
 2. From the drop-down menu select ‘Execute Test’
    - If a proper execution was not desired the user has the option to select a dry run as well.
 
-![Execute Sprint 1](../../_media/_webimages/Execute_Sprint_1.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_webimages/Execute_Sprint_1.png">
 
 3. Select an ‘Environment’
 4. Select a ‘Browser’ version
@@ -32,11 +32,11 @@ Navigate to ‘Web Repository’, select desired project, select desired ‘Spri
 6. Verify all selections in the summary tab
 7. Click ‘Run Test’ button
 
-![Execute Sprint 2](../../_media/_webimages/Execute_Sprint_2.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_webimages/Execute_Sprint_2.png">
 
 8. Navigated back to the ‘Test scripts’ page, click the accordion menu button on the top right corner of the screen and under the reports tab, select ‘Active Sprint Report’
 
-![Execute Sprint 3](../../_media/_webimages/Execute_Sprint_3.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_webimages/Execute_Sprint_3.png">
 
 9. Navigated to the ‘Sprint Dashboard’ page there are a few things to note:
    1. The Initial page contains the data and demographics of a given script which can be filtered using the drop-down menu at the top of the screen. 
@@ -45,7 +45,7 @@ Navigate to ‘Web Repository’, select desired project, select desired ‘Spri
 10. After observing the sprint details, click the ‘Executions’ button on the navigation menu.
    - Note, if the test were not executed but rather a dry run, The ‘Dry Runs’ tab would be the button used for specific test script executions results.
 
-![Execute Sprint 4](../../_media/_webimages/Execute_Sprint_4.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_webimages/Execute_Sprint_4.png">
 
 11. Landing on the ‘Executions’ page, this contains a few key features:
    1. The navigation menu remains present
@@ -53,11 +53,11 @@ Navigate to ‘Web Repository’, select desired project, select desired ‘Spri
    3. Note the live video feature can be accessed using the blue camera icon on the ‘Executions table’
 12. Click the black ‘arrow’ key located on the far right of the desired test script
 
-![Execute Sprint 5](../../_media/_webimages/Execute_Sprint_5.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_webimages/Execute_Sprint_5.png">
 
 13. Verify the step-by-step execution of the test script
    1. The top nav bar highlights test specifics including, execution time, number of passed and failed attempts, User-Interface, Browser, and version. 
    2. Note the live video feature can also be accessed using the ‘Camera’ button on the top left corner of the screen
    3. Furthermore, using the ‘monitor’ button on the right of any given step, the screenshot feature can be accessed, displaying a screenshot of any given step.
 
-![Execute Sprint 6](../../_media/_webimages/Execute_Sprint_6.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_webimages/Execute_Sprint_6.png">

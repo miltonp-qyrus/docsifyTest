@@ -16,4 +16,4 @@ This is where you will be creating a simple database that will be used in your t
 1. Create a username and password to limit the access to your database. If you would like others to use your configured database, give them your **username and password**
 
 
-![DB](../../../_media/_componentImgs/DB_1.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_componentImgs/DB_1.png">

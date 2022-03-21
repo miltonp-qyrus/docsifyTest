@@ -33,7 +33,7 @@ There are two ways to create a new project in the component service.
 
 **Create Project** – click on either the create project button or the empty space to create a new project, fill out a project name, description, and who has access to your project
 
-![](Aspose.Words.2f572e7c-e1bc-424a-bb14-b916aa36d020.001.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_componentImgs/Aspose.Words.2f572e7c-e1bc-424a-bb14-b916aa36d020.001.png">
 ### **Note:** Different Roles for who has access to the project
 #### *Designer – design components and test (cannot approve)*
 #### *Reviewer - like admin role*
@@ -41,7 +41,7 @@ There are two ways to create a new project in the component service.
 
 **Import Scripts** – selecting import scripts you have a choice of different scripts that is provided for you as a template
 
-![](Aspose.Words.2f572e7c-e1bc-424a-bb14-b916aa36d020.002.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_componentImgs/Aspose.Words.2f572e7c-e1bc-424a-bb14-b916aa36d020.002.png">
 
 **Note:** Different types of imports
 
@@ -55,17 +55,17 @@ There are two ways to create a new project in the component service.
 
 Before you create components and test them, head to the setup to make sure you have the prerequisites to create/run the components
 
-![](Aspose.Words.2f572e7c-e1bc-424a-bb14-b916aa36d020.003.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_componentImgs/Aspose.Words.2f572e7c-e1bc-424a-bb14-b916aa36d020.003.png">
 ## **Device Pool (redirect to Mobile?)**
 This is where you will go to setup a mobile virtual device to be used to test mobility component tests. Create a new mobility device and through the whole list select any device that fits the requirements for your mobility test, save and continue
 
-![](Aspose.Words.2f572e7c-e1bc-424a-bb14-b916aa36d020.004.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_componentImgs/Aspose.Words.2f572e7c-e1bc-424a-bb14-b916aa36d020.004.png">
 
 **Note:** For more information on devices checkout **Mobility** in the documentation
 ## **File Management (Application Management) (redirect to Mobile?)**
 This is where you will upload your files that are required to be tested, adding such files the component tests will be able to access.
 
-![](Aspose.Words.2f572e7c-e1bc-424a-bb14-b916aa36d020.005.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_componentImgs/Aspose.Words.2f572e7c-e1bc-424a-bb14-b916aa36d020.005.png">
 
 **Note:** For more information on devices checkout [**Mobility](https://cogcloud.atlassian.net/wiki/spaces/HOW/pages/593363155/Mobility+Documentation)** in the documentation
 
@@ -78,7 +78,7 @@ This is where you are going to combine both the device pool and file management
 1. Select the application test you have uploaded
 1. From the list of devices you copy the device to the clipboard
 
-![](Aspose.Words.2f572e7c-e1bc-424a-bb14-b916aa36d020.006.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_componentImgs/Aspose.Words.2f572e7c-e1bc-424a-bb14-b916aa36d020.006.png">
 
 **Note:** For more information on devices checkout **Mobility** in the documentation
 ## **Database Configuration (skip for now – redirect to Web?)**
@@ -95,7 +95,7 @@ This is where you will be creating a simple database that will be used in your t
 1. Create a database name, **specific**, to the database, gives it an identity when trying to call the database
 1. Create a username and password to limit the access to your database. If you would like others to use your configured database, give them your **username and password**
 
-![](Aspose.Words.2f572e7c-e1bc-424a-bb14-b916aa36d020.007.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_componentImgs/Aspose.Words.2f572e7c-e1bc-424a-bb14-b916aa36d020.007.png">
 ## **Global Variables**
 This is where you will create global variables that can be used throughout the entire service you are using, in this case, the component service. To test repetitive and main variables create them here so you can get access to them by calling them with **# <variable-name> #**
 
@@ -111,13 +111,13 @@ This is where you will create global variables that can be used throughout the e
 - FirstName - any first name
 - LastName - any last name
 
-![](Aspose.Words.2f572e7c-e1bc-424a-bb14-b916aa36d020.008.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_componentImgs/Aspose.Words.2f572e7c-e1bc-424a-bb14-b916aa36d020.008.png">
 # **Design Components **
 Design Components is the section of the Component platform where users can create individual API, Mobile, and/or Web components, which then can be sent off for approval so they can be used for tests.
 
 In order to begin designing components, the user must first navigate into a project by clicking on the ‘Select Project’ button.
 
-![](Aspose.Words.2f572e7c-e1bc-424a-bb14-b916aa36d020.009.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_componentImgs/Aspose.Words.2f572e7c-e1bc-424a-bb14-b916aa36d020.009.png">
 
 The user will then be directed to the Component Dashboard. From here, the user will be presented with options to design components, test components, and do a project setup. The user’s ability to perform these tasks depends on the roles that were assigned to them during ‘Project Setup’. There are three different roles a person can be.
 
@@ -129,7 +129,7 @@ Therefore, if the user’s role is not Designer or Reviewer, the user will not b
 
 In order for a user to begin designing components, click on the ‘Design’ button.
 
-![](Aspose.Words.2f572e7c-e1bc-424a-bb14-b916aa36d020.010.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_componentImgs/Aspose.Words.2f572e7c-e1bc-424a-bb14-b916aa36d020.010.png">
 ## Component Building
 After clicking on the ‘Design’ button, the user will be brought to the Component Design page. From here, the user can select which category they would like to design a component for. They will be able to select from:
 
@@ -137,7 +137,7 @@ After clicking on the ‘Design’ button, the user will be brought to the Compo
 1. Mobile
 1. Web
 
-![](Aspose.Words.2f572e7c-e1bc-424a-bb14-b916aa36d020.011.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_componentImgs/Aspose.Words.2f572e7c-e1bc-424a-bb14-b916aa36d020.011.png">
 ### API
 #### *Create Component*
 After navigating into Component Design and clicking the ‘Select’ button under the API section, the user can begin creating their components. If the user has not built a component in the API category before, the user will have three options available for building a component. These options include: 
@@ -146,7 +146,7 @@ After navigating into Component Design and clicking the ‘Select’ button unde
 1. Uploading a Swagger JSON
 1. Creating a manual API test 
 
-![](Aspose.Words.2f572e7c-e1bc-424a-bb14-b916aa36d020.012.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_componentImgs/Aspose.Words.2f572e7c-e1bc-424a-bb14-b916aa36d020.012.png">
 
 All steps on importing and uploading via Swagger can be viewed in the API Testing Documentation under API Performance -> Create Test Script.
 
@@ -158,15 +158,15 @@ When creating a Manual API Testing, the user must click on the ‘Add’ button 
 
 After filling out the form, click on ‘Create Component’ button and the newly created component will appear.
 
-![](Aspose.Words.2f572e7c-e1bc-424a-bb14-b916aa36d020.013.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_componentImgs/Aspose.Words.2f572e7c-e1bc-424a-bb14-b916aa36d020.013.png">
 
 If a component has already been created, then the user can create another component by clicking on the ‘Create Component’ button located on the left panel.
 
-![](Aspose.Words.2f572e7c-e1bc-424a-bb14-b916aa36d020.014.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_componentImgs/Aspose.Words.2f572e7c-e1bc-424a-bb14-b916aa36d020.014.png">
 
 When the ‘Create Component’ button is clicked, the same Create Component Form as previously mentioned will appear. After filling out the form, click on ‘Create Component’.
 
-![](Aspose.Words.2f572e7c-e1bc-424a-bb14-b916aa36d020.013.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_componentImgs/Aspose.Words.2f572e7c-e1bc-424a-bb14-b916aa36d020.013.png">
 #### *Test Steps*
 After the ‘Create Component’ form has been filled out or a Swagger component was imported, the user will be brought to the ‘Test Steps’ page. From here, the user will be prompted to fill out a form that will create an API connection. The user will be required to enter:
 
@@ -183,12 +183,12 @@ After the ‘Create Component’ form has been filled out or a Swagger component
 
 After filling out the form, the user can click on the ‘Save’ icon on the top right.
 
-![](Aspose.Words.2f572e7c-e1bc-424a-bb14-b916aa36d020.015.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_componentImgs/Aspose.Words.2f572e7c-e1bc-424a-bb14-b916aa36d020.015.png">
 ### Mobile
 #### *Create Component*
 After navigating into Component Design and clicking the ‘Select’ button under the Mobile section, the user can click on the ‘Create Component’ button on the left panel.
 
-![](Aspose.Words.2f572e7c-e1bc-424a-bb14-b916aa36d020.014.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_componentImgs/Aspose.Words.2f572e7c-e1bc-424a-bb14-b916aa36d020.014.png">
 
 Next, the ‘Create Component’ form will appear and the user will be required enter: 
 
@@ -198,11 +198,11 @@ Next, the ‘Create Component’ form will appear and the user will be required 
 
 After this form is completed, click on ‘Create Component’.
 
-![](Aspose.Words.2f572e7c-e1bc-424a-bb14-b916aa36d020.013.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_componentImgs/Aspose.Words.2f572e7c-e1bc-424a-bb14-b916aa36d020.013.png">
 #### *Test Steps*
 After clicking on ‘Create Component’, the user will be able to begin creating their test steps by clicking on the ‘Add Step’ button.
 
-![](Aspose.Words.2f572e7c-e1bc-424a-bb14-b916aa36d020.016.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_componentImgs/Aspose.Words.2f572e7c-e1bc-424a-bb14-b916aa36d020.016.png">
 
 Clicking on ‘Add Step’ will bring the user to the ‘Test Step’ page. Here the user can create all their test steps. Each test step requires the user to select an action type. After an action type is selected, all of the other required fields will contain a red ‘\*’ symbol, which is located to the right of the text field title. 
 
@@ -210,12 +210,12 @@ The user can also add more steps by clicking on the blue ‘Add Step’ button l
 
 After all the steps have been completed, click on the green ‘Save’ icon on the top right of page.
 
-![](Aspose.Words.2f572e7c-e1bc-424a-bb14-b916aa36d020.017.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_componentImgs/Aspose.Words.2f572e7c-e1bc-424a-bb14-b916aa36d020.017.png">
 ### Web
 #### *Create Component*
 After navigating into Component Design and clicking the ‘Select’ button under the Web section, the user can create a component by clicking on the ‘Create Component’ button located on the left panel. 
 
-![](Aspose.Words.2f572e7c-e1bc-424a-bb14-b916aa36d020.018.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_componentImgs/Aspose.Words.2f572e7c-e1bc-424a-bb14-b916aa36d020.018.png">
 
 Next, the ‘Create Component’ form will appear and the user will be required enter: 
 
@@ -225,11 +225,11 @@ Next, the ‘Create Component’ form will appear and the user will be required 
 
 After this form is completed, click on ‘Create Component’.
 
-![](Aspose.Words.2f572e7c-e1bc-424a-bb14-b916aa36d020.013.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_componentImgs/Aspose.Words.2f572e7c-e1bc-424a-bb14-b916aa36d020.013.png">
 #### *Test Steps*
 After clicking on ‘Create Component’, the user will be able to begin creating their test steps by clicking on the ‘Add Step’ button.
 
-![](Aspose.Words.2f572e7c-e1bc-424a-bb14-b916aa36d020.016.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_componentImgs/Aspose.Words.2f572e7c-e1bc-424a-bb14-b916aa36d020.016.png">
 
 Clicking on ‘Add Step’ will bring the user to the ‘Test Step’ page. Here the user can create all their test steps. Each test step requires the user to select an action type. After an action type is selected, all of the other required fields will contain a red ‘\*’ symbol, which is located to the right of the text field title. 
 
@@ -237,13 +237,13 @@ The user can also add more steps by clicking on the blue ‘Add Step’ button l
 
 After all the steps have been completed, click on the green ‘Save’ icon on the top right of page.
 
-![](Aspose.Words.2f572e7c-e1bc-424a-bb14-b916aa36d020.019.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_componentImgs/Aspose.Words.2f572e7c-e1bc-424a-bb14-b916aa36d020.019.png">
 ## Quick Runs
 Quick runs are useful for making sure a test runs correctly before sending it for approval.
 
 After the user creates their test steps, the user can click on the blue ‘Play’ button located on the top right of the screen to begin their quick run. 
 
-![](Aspose.Words.2f572e7c-e1bc-424a-bb14-b916aa36d020.020.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_componentImgs/Aspose.Words.2f572e7c-e1bc-424a-bb14-b916aa36d020.020.png">
 
 When running a quick run on a Mobile and Web component, a pop up will appear that will require more information to start the quick run.
 ### Mobile
@@ -257,7 +257,7 @@ After clicking on the blue ‘Play’ button to begin your quick run, a pop up w
 
 After completing the form and clicking ‘Run’, the quick run will execute.
 
-![](Aspose.Words.2f572e7c-e1bc-424a-bb14-b916aa36d020.021.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_componentImgs/Aspose.Words.2f572e7c-e1bc-424a-bb14-b916aa36d020.021.png">
 ### Web
 After clicking on the blue ‘Play’ button to begin your quick run, a pop up will appear that prompt the user to enter the following:
 
@@ -268,37 +268,37 @@ After clicking on the blue ‘Play’ button to begin your quick run, a pop up w
 
 After completing the form and clicking ‘Run’, the quick run will execute.
 
-![](Aspose.Words.2f572e7c-e1bc-424a-bb14-b916aa36d020.022.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_componentImgs/Aspose.Words.2f572e7c-e1bc-424a-bb14-b916aa36d020.022.png">
 
 ### Viewing Quick Run Status
 When the quick run begins, the user can click on the ‘Lighting Bolt’ icon on the right panel to view their quick run status. 
 
-![](Aspose.Words.2f572e7c-e1bc-424a-bb14-b916aa36d020.023.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_componentImgs/Aspose.Words.2f572e7c-e1bc-424a-bb14-b916aa36d020.023.png">
 ## Approval Process
 After a test script has been created and saved, the user can begin the approval process. The approval process differentiates depending on if the user has the role of Designer or Reviewer.
 
-![](Aspose.Words.2f572e7c-e1bc-424a-bb14-b916aa36d020.024.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_componentImgs/Aspose.Words.2f572e7c-e1bc-424a-bb14-b916aa36d020.024.png">
 ### Role: Designer
 When the user has the role of ‘Designer’ and clicks on the red icon that represents ‘Send for Approval’, a notification will appear at the bottom right of the screen stating “Component Sent for Review”.
 
-![](Aspose.Words.2f572e7c-e1bc-424a-bb14-b916aa36d020.025.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_componentImgs/Aspose.Words.2f572e7c-e1bc-424a-bb14-b916aa36d020.025.png">
 
 The user can click on the ‘Go Back’ button, the user can view the components current status.
 
 
 
-![](Aspose.Words.2f572e7c-e1bc-424a-bb14-b916aa36d020.026.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_componentImgs/Aspose.Words.2f572e7c-e1bc-424a-bb14-b916aa36d020.026.png">
 
 ### Role: Reviewer
 When the user is given the role of ‘Reviewer’, they are able to approve or deny all components sent for review except components that they created.
 
 The Reviewer can view all components waiting for approval by clicking on the ‘Awaiting Approvals’ tab located on the left panel. From here they can view their status and then click on ‘Go to Component’ to approve or deny component requests.
 
-![](Aspose.Words.2f572e7c-e1bc-424a-bb14-b916aa36d020.027.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_componentImgs/Aspose.Words.2f572e7c-e1bc-424a-bb14-b916aa36d020.027.png">
 
 After clicking on ‘Go to Component’, the user can either click on the ‘Approve or Reject’ buttons located at the bottom of the right panel.
 
-![](Aspose.Words.2f572e7c-e1bc-424a-bb14-b916aa36d020.028.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_componentImgs/Aspose.Words.2f572e7c-e1bc-424a-bb14-b916aa36d020.028.png">
 
 
 ## Differences in Web Test Building
@@ -315,15 +315,15 @@ After clicking on ‘Go to Component’, the user can either click on the ‘App
 ## Creating Tests 
 After creating a project, click on the ‘Select Project’ button.
 
-![](Aspose.Words.2f572e7c-e1bc-424a-bb14-b916aa36d020.009.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_componentImgs/Aspose.Words.2f572e7c-e1bc-424a-bb14-b916aa36d020.009.png">
 
 After doing so the user can navigate to the ‘Test’ tab of the component section to begin the process of creating a component test.
 
-![](Aspose.Words.2f572e7c-e1bc-424a-bb14-b916aa36d020.029.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_componentImgs/Aspose.Words.2f572e7c-e1bc-424a-bb14-b916aa36d020.029.png">
 
 From the ‘Test’ page a user has access to all previously created tests in a given project with details including test description, linked components, different potential actions, and a link to go to the test. From this navigation click ‘Create Test’ to continue the test creation process. 
 
-![](Aspose.Words.2f572e7c-e1bc-424a-bb14-b916aa36d020.030.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_componentImgs/Aspose.Words.2f572e7c-e1bc-424a-bb14-b916aa36d020.030.png">
 
 Provide a:
 
@@ -333,7 +333,7 @@ Provide a:
 
 Upon completion click the ‘Create Test’ button
 
-![](Aspose.Words.2f572e7c-e1bc-424a-bb14-b916aa36d020.031.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_componentImgs/Aspose.Words.2f572e7c-e1bc-424a-bb14-b916aa36d020.031.png">
 ###
 ### Adding Components
 
@@ -341,18 +341,18 @@ Upon Creation of a new Test the user will be prompted to the step creation page.
 
 On the left half of the page, there exists a component menu where the user can select individually created components. Note the mobility, or web icons on the component selectors identify the origins of the component.
 
-![](Aspose.Words.2f572e7c-e1bc-424a-bb14-b916aa36d020.032.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_componentImgs/Aspose.Words.2f572e7c-e1bc-424a-bb14-b916aa36d020.032.png">
 
 Upon identification of the desired component for a given test, click the yellow ‘Plus’ button to add that component to the connections display. 
 
-![](Aspose.Words.2f572e7c-e1bc-424a-bb14-b916aa36d020.033.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_componentImgs/Aspose.Words.2f572e7c-e1bc-424a-bb14-b916aa36d020.033.png">
 
 ###
 ### Wiring Components
 
 Upon the addition of two or more components, each of them must be wired. The center of the screen holds the connections display. This allows the User to create connections between components and build out complete component tests. Note there is a delete and reset button on the top right corner of the display, and a handy reset view button in case the user loses track of the components
 
-![](Aspose.Words.2f572e7c-e1bc-424a-bb14-b916aa36d020.034.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_componentImgs/Aspose.Words.2f572e7c-e1bc-424a-bb14-b916aa36d020.034.png">
 
 Wiring components is a multiple step process:
 
@@ -361,11 +361,11 @@ Wiring components is a multiple step process:
 - Then, while holding the cursor down, drag the arow icon to the desired end script
 - When the two components are shown adjoined with a blue arrow the components are wired 
 
-![](Aspose.Words.2f572e7c-e1bc-424a-bb14-b916aa36d020.035.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_componentImgs/Aspose.Words.2f572e7c-e1bc-424a-bb14-b916aa36d020.035.png">
 
 Click the ‘Save’ Icon, followed by the ‘Next’ button
 
-![](Aspose.Words.2f572e7c-e1bc-424a-bb14-b916aa36d020.036.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_componentImgs/Aspose.Words.2f572e7c-e1bc-424a-bb14-b916aa36d020.036.png">
 
 ### API Data Handlers
 Data handlers can be found in the ‘Test Steps’ portion of the API test component, assuming that one of your components is an API test. The two potential Data handlers, which can be found under the ‘Data Handlers’ tab in the step menu include:
@@ -373,9 +373,10 @@ Data handlers can be found in the ‘Test Steps’ portion of the API test compo
 - Get (GetDataHandler)
 - Set (SetDataHandler)
 
-![](Aspose.Words.2f572e7c-e1bc-424a-bb14-b916aa36d020.037.png)The ’Get’ Data handler allows the user to capture API response values and store them in variable format for future use. This handler requires the desired Json Path, and a variable name. For request bodies, the User should enter ’$’ as the Json Path with a variable name in the variable field. 
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_componentImgs/Aspose.Words.2f572e7c-e1bc-424a-bb14-b916aa36d020.037.png">
+The ’Get’ Data handler allows the user to capture API response values and store them in variable format for future use. This handler requires the desired Json Path, and a variable name. For request bodies, the User should enter ’$’ as the Json Path with a variable name in the variable field. 
 
-![](Aspose.Words.2f572e7c-e1bc-424a-bb14-b916aa36d020.038.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_componentImgs/Aspose.Words.2f572e7c-e1bc-424a-bb14-b916aa36d020.038.png">
 
 The ‘Set’ Data handler bridges the test script with the given API call. The handler requires:
 
@@ -388,27 +389,27 @@ The ‘Set’ Data handler bridges the test script with the given API call. The 
   - Request Key
   - Header
 
-![](Aspose.Words.2f572e7c-e1bc-424a-bb14-b916aa36d020.039.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_componentImgs/Aspose.Words.2f572e7c-e1bc-424a-bb14-b916aa36d020.039.png">
 
 During the Test Step creation phase, it is important to note:
 
 - If there are parameterized steps included in any given component test (web, mobile, or API) the parameterization can be handled in step using the parameterization dropdown, or within the file using a ‘~’ in replacement of the desired test step to skip. 
 
-![](Aspose.Words.2f572e7c-e1bc-424a-bb14-b916aa36d020.040.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_componentImgs/Aspose.Words.2f572e7c-e1bc-424a-bb14-b916aa36d020.040.png">
 
 - The ‘Mark As Component’ feature allows you to flag given test scripts upon creation. These scripts are now available in the ‘Component testing’ menu and can be easily imported into component tests.
 
-![](Aspose.Words.2f572e7c-e1bc-424a-bb14-b916aa36d020.041.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_componentImgs/Aspose.Words.2f572e7c-e1bc-424a-bb14-b916aa36d020.041.png">
 
 It is also important to note the ‘Test steps’ page. 
 ## Executing Tests & Viewing Reports
 Upon the creation and saving of a given test script, the user can use the ‘Run’ button to navigate from the created test to the results tab. Upon run the user will be prompted to provide specifics in relation to the component tests being run.
 
-![](Aspose.Words.2f572e7c-e1bc-424a-bb14-b916aa36d020.042.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_componentImgs/Aspose.Words.2f572e7c-e1bc-424a-bb14-b916aa36d020.042.png">
 
 Upon running the test the user will be navigated to the ‘Component Report’ tab. It is important to note a few features:
 
-![](Aspose.Words.2f572e7c-e1bc-424a-bb14-b916aa36d020.043.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_componentImgs/Aspose.Words.2f572e7c-e1bc-424a-bb14-b916aa36d020.043.png">
 
 - The Test Reports table
 - Action types upon the test script
@@ -427,7 +428,7 @@ Click the ‘View Details’ tab on the far-right side of any given step. This w
 - Execution time
 - Screenshots 
 
-![](Aspose.Words.2f572e7c-e1bc-424a-bb14-b916aa36d020.044.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_componentImgs/Aspose.Words.2f572e7c-e1bc-424a-bb14-b916aa36d020.044.png">
 
 Step by step execution and results can now be viewed by the user.
 ||||

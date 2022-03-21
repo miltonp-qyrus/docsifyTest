@@ -6,7 +6,7 @@ After navigating into Component Design and clicking the ‘Select’ button unde
 1. Uploading a Swagger JSON
 1. Creating a manual API test 
 
-![](Aspose.Words.2f572e7c-e1bc-424a-bb14-b916aa36d020.012.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_componentImgs/Aspose.Words.2f572e7c-e1bc-424a-bb14-b916aa36d020.012.png">
 
 All steps on importing and uploading via Swagger can be viewed in the API Testing Documentation under API Performance -> Create Test Script.
 
@@ -18,15 +18,15 @@ When creating a Manual API Testing, the user must click on the ‘Add’ button 
 
 After filling out the form, click on ‘Create Component’ button and the newly created component will appear.
 
-![](Aspose.Words.2f572e7c-e1bc-424a-bb14-b916aa36d020.013.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_componentImgs/Aspose.Words.2f572e7c-e1bc-424a-bb14-b916aa36d020.013.png">
 
 If a component has already been created, then the user can create another component by clicking on the ‘Create Component’ button located on the left panel.
 
-![](Aspose.Words.2f572e7c-e1bc-424a-bb14-b916aa36d020.014.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_componentImgs/Aspose.Words.2f572e7c-e1bc-424a-bb14-b916aa36d020.014.png">
 
 When the ‘Create Component’ button is clicked, the same Create Component Form as previously mentioned will appear. After filling out the form, click on ‘Create Component’.
 
-![](Aspose.Words.2f572e7c-e1bc-424a-bb14-b916aa36d020.013.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_componentImgs/Aspose.Words.2f572e7c-e1bc-424a-bb14-b916aa36d020.013.png">
 ### Test Steps
 After the ‘Create Component’ form has been filled out or a Swagger component was imported, the user will be brought to the ‘Test Steps’ page. From here, the user will be prompted to fill out a form that will create an API connection. The user will be required to enter:
 
@@ -43,4 +43,4 @@ After the ‘Create Component’ form has been filled out or a Swagger component
 
 After filling out the form, the user can click on the ‘Save’ icon on the top right.
 
-![](Aspose.Words.2f572e7c-e1bc-424a-bb14-b916aa36d020.015.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_componentImgs/Aspose.Words.2f572e7c-e1bc-424a-bb14-b916aa36d020.015.png">

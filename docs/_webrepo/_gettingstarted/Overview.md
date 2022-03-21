@@ -8,5 +8,5 @@ Web Repository allows users to build and run automated tests for web application
 ## Q-torial Introduction
 
 <video width="600px" height="600px" controls>
-  <source src="/_webrepo/_projectcreation/../../_media/_videos/_webVideos/Clip1-Introduction.mp4" type="video/mp4">
+  <source src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/Web/Clip1-Introduction.mp4" type="video/mp4">
 </video>

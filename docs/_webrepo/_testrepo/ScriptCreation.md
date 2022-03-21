@@ -17,16 +17,19 @@ A script is the automated test that is executed to perform some function.
 1. Select desired module
 
 ### Script Creation
-1. Click ‘Create Script’ button ![Creating Scripts 1](../../_media/_webimages/Repo_Create_Script_1.png)
+1. Click ‘Create Script’ button 
+
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_webimages/Repo_Create_Script_1.png">
+
 1. Enter a ‘Test Script Name’
 1. Enter an ‘Objective’ 
 1. Provide any desired ‘Tags’ for the given test script
 1. Click ‘Create Script’ button
 
-![Creating Scripts 2](../../_media/_webimages/Repo_Create_Script_2.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_webimages/Repo_Create_Script_2.png">
 
 ## Create a Script
 
 <video width="600px" height="400px" controls>
-  <source src="/_webrepo/_projectcreation/../../_media/_videos/_webVideos/Clip4-CreateScript.mp4" type="video/mp4">
+  <source src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/Web/Clip4-CreateScript.mp4" type="video/mp4">
 </video>

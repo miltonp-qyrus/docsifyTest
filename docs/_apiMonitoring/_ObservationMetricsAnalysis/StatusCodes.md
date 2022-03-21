@@ -4,7 +4,7 @@
 
 ## Status Codes  {docsify-ignore}  
 
-![](../../../_media/_apiMonitoringImgs/Aspose.Words.55549bf5-5cbd-4794-a8ae-ae7657cb7b04.030.png) 
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_apiMonitoringImgs/Aspose.Words.55549bf5-5cbd-4794-a8ae-ae7657cb7b04.030.png"> 
 
 **Current Status Code:** The status code of the API in the last call.
 

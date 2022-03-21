@@ -12,20 +12,20 @@ Qyrus allows users to reuse test scripts across multiple different solutions. U
 ### Usage
 1. Click on the ‘more options’ button for the script that you want to import
 
-![Marking Script 1](../../_media/_mobileimages/Marking_Script_1.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_mobileimages/Marking_Script_1.png">
 
 2. ` `Click on ‘Mark As Component’ option
 
-![Marking Script 2](../../_media/_mobileimages/Marking_Script_2.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_mobileimages/Marking_Script_2.png">
 
 3. When done correctly, the script will have this ‘Flag’ symbol
 
-![Marking Script 3](../../_media/_mobileimages/Marking_Script_3.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_mobileimages/Marking_Script_3.png">
 
 4. Go to Component Testing and click the “Import Scripts” button. 
 
-![Marking Script 4](../../_media/_mobileimages/Marking_Script_4.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_mobileimages/Marking_Script_4.png">
 
 5. Then, select Mobility, whichever scripts to import, and click the “Import” button.
 
-![Marking Script 5](../../_media/_mobileimages/Marking_Script_5.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_mobileimages/Marking_Script_5.png">

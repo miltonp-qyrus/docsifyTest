@@ -17,7 +17,7 @@ Navigate to ‘Web Repository’, select desired project, select desired ‘Spri
 ### Importing Scripts
 1. Click ‘Import Test Script’ button
 
-![Import Script 1](../../_media/_webimages/Import_Script_Sprint_1.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_webimages/Import_Script_Sprint_1.png)
 
 2. Click ‘Import Test Script’ button 
 3. Upon Navigation to the ‘Import Scripts’ page there are a few things to note:
@@ -25,7 +25,7 @@ Navigate to ‘Web Repository’, select desired project, select desired ‘Spri
    2. On the right-hand side is the created previously created test suite to which test scripts must be added
 4. Click on the desired module
 
-![Import Script 2](../../_media/_webimages/Import_Script_Sprint_2.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_webimages/Import_Script_Sprint_2.png">
 
 5. Select Desired Test Scripts and ‘Push to Suite’, options include:
    1. Employ drag and drop
@@ -33,9 +33,9 @@ Navigate to ‘Web Repository’, select desired project, select desired ‘Spri
    3. Select each desired script using the check boxes on the left of the name and click the ‘Push to Suite’ button
 6. Once Selected click ‘Save to Suite’ button
 
-![Import Script 3](../../_media/_webimages/Import_Script_Sprint_3.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_webimages/Import_Script_Sprint_3.png">
 
 7. Upon navigation back to the ‘Test Scripts’ page, verify that the desired test script has been imported
    - The script should show up on the test scripts table in the center of the screen alongside a numerical indicator on the ‘Test Scripts’ heading
 
-![Import Script 4](../../_media/_webimages/Import_Script_Sprint_4.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_webimages/Import_Script_Sprint_4.png">

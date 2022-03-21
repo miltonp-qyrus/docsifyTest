@@ -4,7 +4,7 @@
 
 ## Response Time Metrics  {docsify-ignore}  
 
-![](../../../_media/_apiMonitoringImgs/Aspose.Words.55549bf5-5cbd-4794-a8ae-ae7657cb7b04.031.png) 
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_apiMonitoringImgs/Aspose.Words.55549bf5-5cbd-4794-a8ae-ae7657cb7b04.031.png">
 
 **Rolling Average Response Time (ms):** The average response time of the API calls
 
@@ -16,6 +16,6 @@
 
 **Graph**
 
-![](../../../_media/_apiMonitoringImgs/Aspose.Words.55549bf5-5cbd-4794-a8ae-ae7657cb7b04.032.png) 
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_apiMonitoringImgs/Aspose.Words.55549bf5-5cbd-4794-a8ae-ae7657cb7b04.032.png">
 
 The graph plots the Single and the Average Response Time Thresholds as well as the Response Times of the last 10 API calls.

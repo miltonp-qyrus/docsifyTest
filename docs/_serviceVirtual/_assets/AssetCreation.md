@@ -8,7 +8,7 @@ We need an asset folder to keep track of all the different Assets or data for ou
 
 When creating a new Asset you this is where you are given the choice to import a **Swagger URL** or manually create your own. 
 
-![](../../../_media/_serviceImgs/Aspose.Words.3902605c-4b30-4b77-afc9-c9fa959b2fd5.006.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_serviceImgs/Aspose.Words.3902605c-4b30-4b77-afc9-c9fa959b2fd5.006.png">
 
 This is where you fill out the form with necessary information that relates with the project i.e:
 
@@ -31,4 +31,4 @@ This is where you fill out the form with necessary information that relates with
 *{"patient": {"firstName": "John","lastName": "Doe","id": 1}}*
 
 9. **Query Parameter:** this is where you fill out the parameter that will call an object with its unique path out of all the data in its response, I.e: /test/user/**id/1
-![](../../../_media/_serviceImgs/Aspose.Words.3902605c-4b30-4b77-afc9-c9fa959b2fd5.007.png)**
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_serviceImgs/Aspose.Words.3902605c-4b30-4b77-afc9-c9fa959b2fd5.007.png">

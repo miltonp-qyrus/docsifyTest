@@ -13,8 +13,8 @@ Get started with Service Virtualization by creating an **Asset Folder** that wil
 1. Once you create a new folder your center of space** will be updated
 1. To add **Assets/data** continue with the arrow button
 
-![](../../../_media/_serviceImgs/Aspose.Words.3902605c-4b30-4b77-afc9-c9fa959b2fd5.003.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_serviceImgs/Aspose.Words.3902605c-4b30-4b77-afc9-c9fa959b2fd5.003.png">
 
-![](../../../_media/_serviceImgs/Aspose.Words.3902605c-4b30-4b77-afc9-c9fa959b2fd5.004.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_serviceImgs/Aspose.Words.3902605c-4b30-4b77-afc9-c9fa959b2fd5.004.png">
 
-![](../../../_media/_serviceImgs/Aspose.Words.3902605c-4b30-4b77-afc9-c9fa959b2fd5.005.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_serviceImgs/Aspose.Words.3902605c-4b30-4b77-afc9-c9fa959b2fd5.005.png">

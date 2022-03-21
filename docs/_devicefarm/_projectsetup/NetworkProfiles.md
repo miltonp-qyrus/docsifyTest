@@ -10,7 +10,7 @@ Creating a network profile allows a user to customize their network settings. Th
 
 For a user to do this, the user must first click on the ‘Network Profiles’ tab located on the left panel. Then, click on the ‘New Profile’ button, selected on the top left of the screen. 
 
-![](../../../_media/_devicefarmimgs/Aspose.Words.a5ba35ee-3494-4720-8f8c-7cedbeae1812.008.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_devicefarmimgs/Aspose.Words.a5ba35ee-3494-4720-8f8c-7cedbeae1812.008.png">
 
 After clicking on ‘New Profile’, a form will appear that will prompt the users to fill out four text fields that include:
 
@@ -21,4 +21,4 @@ After clicking on ‘New Profile’, a form will appear that will prompt the use
 
 After the four of these text fields are filled out, click on ‘Add Profile’.
 
-![](../../../_media/_devicefarmimgs/Aspose.Words.a5ba35ee-3494-4720-8f8c-7cedbeae1812.009.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_devicefarmimgs/Aspose.Words.a5ba35ee-3494-4720-8f8c-7cedbeae1812.009.png">

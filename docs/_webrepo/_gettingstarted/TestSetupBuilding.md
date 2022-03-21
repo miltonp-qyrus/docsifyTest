@@ -15,14 +15,15 @@ Projects are used to organize test scripts. This is the highest level of heirarc
 1. Click ‘Create Project’
 
 <!-- ![asdf](/../../_media/qyrus.jpeg) -->
-![Create Project Image](../../_media/_webimages/Create_Project.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_webimages/Create_Project.png">
 ### Creating a Module
 A module will further organize test scripts.
 1. Under the ‘Build’ tab, Select ‘Test Repository’
 
-![module 1](../../_media/_webimages/Create_Module_1.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_webimages/Create_Module_1.png">
 
-2. On the ‘Test Repository’ page click the ‘New Module’ button![module 2](../../_media/_webimages/Create_Module_3.png)
+2. On the ‘Test Repository’ page click the ‘New Module’ button 
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_webimages/Create_Module_3.png">
 
 3. Enter a module ‘Name’
 4. Enter up to a four-character key for the ‘Module Key Name’
@@ -30,18 +31,18 @@ A module will further organize test scripts.
 6. Enter a ‘Module Description’
 7. Click Create Module
 
-![module 3](../../_media/_webimages/Create_Module_2.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_webimages/Create_Module_2.png">
 
 ### Creating a Script
 A script is the automated test that is executed to perform some function.
 1. Click ‘Create Script’ button 
-![Script 1](../../_media/_webimages/Create_Script_1.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_webimages/Create_Script_1.png">
 1. Enter a ‘Test Script Name’
 1. Enter an ‘Objective’ 
 1. Provide any desired ‘Tags’ for the given test script
 1. Click ‘Create Script’ button
 
-![Script 2](../../_media/_webimages/Create_Script_2.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_webimages/Create_Script_2.png">
 
 ### Adding Steps
 Test steps are comprised of three important components:
@@ -52,19 +53,19 @@ Test steps are comprised of three important components:
 
 Depending on the action type used, additional data and parameters may be required.
 
-![Add Steps 1](../../_media/_webimages/Add_Steps_1.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_webimages/Add_Steps_1.png">
 
 1. The first step we are going to create, and one of the most common first steps is a launch
    1. A launch tells the browser what domain we are heading to, and testing. 
    2. To navigate to the proper action click the dropdown à “Launch” à “Go to url"
 
-![Add Steps 2](../../_media/_webimages/Add_Steps_2.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_webimages/Add_Steps_2.png">
 
 2. Next enter a relevant description 
 3. Lastly copy and paste the following into the url: <https://www.google.com/>
 
-![Add Steps 3](../../_media/_webimages/Add_Steps_3.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_webimages/Add_Steps_3.png">
 
 4. Click the ‘Add step’ button and for the following steps copy the screenshot provided.
 
-![Add Steps 4](../../_media/_webimages/Add_Steps_4.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_webimages/Add_Steps_4.png">

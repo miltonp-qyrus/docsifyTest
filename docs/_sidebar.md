@@ -168,12 +168,12 @@
         - [Worksheet II](_Q-torial/_mobilityQ-torial/_worksheet2-RecorderMode.md)
         - [Conclusion](_Q-torial/_mobilityQ-torial/_conclusion.md)
 
-    - **Component Testing**
+    <!-- - **Component Testing**
         - [Introduction](_Q-torial/_ComponentQ-torial/_introduction.md)
         - [Import](_Q-torial/_ComponentQ-torial/_first-steps.md)
         - [Setup](_Q-torial/_ComponentQ-torial/_setup.md)
         - [Test](_Q-torial/_ComponentQ-torial/_test.md)
-        - [Summary](_Q-torial/_ComponentQ-torial/_summary.md)
+        - [Summary](_Q-torial/_ComponentQ-torial/_summary.md) -->
 
 ---
 

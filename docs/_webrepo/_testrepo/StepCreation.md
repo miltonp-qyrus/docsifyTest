@@ -15,10 +15,13 @@ These individual steps are the actions that will take place within the test scri
 ### Setup
 
 1. Navigate to ‘Web Repository’, select desired project, click ‘Test Repository’, and select desired module
-1. Select desired test script and click the arrow button on the far right
-1. Click ‘Create Step Manually’ button  ![](../../_media/_webimages/Aspose.Words.404e87e9-6ed7-4fc7-ac81-b7d471d1c9f8.058.png)
+1. Select desired test script and click the arrow button on the far right 
 
-![Creating Steps 1](../../_media/_webimages/Aspose.Words.404e87e9-6ed7-4fc7-ac81-b7d471d1c9f8.059.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_webimages/Aspose.Words.404e87e9-6ed7-4fc7-ac81-b7d471d1c9f8.058.png">
+
+1. Click ‘Create Step Manually’ button  
+
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_webimages/Aspose.Words.404e87e9-6ed7-4fc7-ac81-b7d471d1c9f8.059.png">
 
 ### Background
 
@@ -28,12 +31,12 @@ These individual steps are the actions that will take place within the test scri
    1. Different action types may require additional data inputs for execution
    1. Different locator types may contain different input specifics
 
-![Creating Steps 2](../../_media/_webimages/Aspose.Words.404e87e9-6ed7-4fc7-ac81-b7d471d1c9f8.060.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_webimages/Aspose.Words.404e87e9-6ed7-4fc7-ac81-b7d471d1c9f8.060.png">
 
 ## Step Creation page
 
 <video width="600px" height="400px" controls>
-  <source src="/_webrepo/_projectcreation/../../_media/_videos/_webVideos/Clip5-Stepcreationpage.mp4" type="video/mp4">
+  <source src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/Web/Clip5-Stepcreationpage.mp4" type="video/mp4">
 </video>
 
 ### Create Steps
@@ -45,21 +48,21 @@ These individual steps are the actions that will take place within the test scri
    1. A launch tells the browser what domain we are heading to, and testing. 
    2. To navigate to the proper action click the dropdown à “Launch” à “Go to url"
 
-![Creating Steps 3](../../_media/_webimages/Aspose.Words.404e87e9-6ed7-4fc7-ac81-b7d471d1c9f8.008.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_webimages/Aspose.Words.404e87e9-6ed7-4fc7-ac81-b7d471d1c9f8.008.png">
 
 3. Next enter a relevant description 
 4. Lastly copy and paste the following into the url
    1. <https://www.google.com/>
 
-![Creating Steps 4](../../_media/_webimages/Aspose.Words.404e87e9-6ed7-4fc7-ac81-b7d471d1c9f8.061.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_webimages/Aspose.Words.404e87e9-6ed7-4fc7-ac81-b7d471d1c9f8.061.png">
 
 5. Click the ‘Add step’ button and for the following steps copy the screenshot provided.
 
-![Creating Steps 5](../../_media/_webimages/Aspose.Words.404e87e9-6ed7-4fc7-ac81-b7d471d1c9f8.062.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_webimages/Aspose.Words.404e87e9-6ed7-4fc7-ac81-b7d471d1c9f8.062.png">
 
 ## Steps Overview
 
 <video width="600px" height="400px" controls>
-  <source src="/_webrepo/_projectcreation/../../_media/_videos/_webVideos/Clip6-Stepsoverview.mp4" type="video/mp4">
+  <source src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/Web/Clip6-Stepsoverview.mp4" type="video/mp4">
 </video>
 

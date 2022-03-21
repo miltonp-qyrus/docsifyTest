@@ -4,10 +4,10 @@
 ## Creating Test Suites <!-- {docsify-ignore} --> 
 1. Click on ‘Create Test Suite’
 
-![](../../../_media/_apiImgs/Aspose.Words.1a0bb08a-a30f-4674-a26b-60d476b195cd.021.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_apiImgs/Aspose.Words.1a0bb08a-a30f-4674-a26b-60d476b195cd.021.png">
 
 1. Enter a Test Suite Name
 1. Enter a Module Name 
 1. Click on ‘Create Test Suite’
 
-![](../../../_media/_apiImgs/Aspose.Words.1a0bb08a-a30f-4674-a26b-60d476b195cd.002.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_apiImgs/Aspose.Words.1a0bb08a-a30f-4674-a26b-60d476b195cd.002.png">

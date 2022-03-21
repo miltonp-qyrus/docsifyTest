@@ -13,12 +13,12 @@ After clicking on ‘Remote Devices’, three new panels will appear. The left p
 
 **Note:** APK files can only be ran on android devices and IPA files can only be ran on iOS devices; therefore, if the user only has an APK file downloaded, the user can only select Android devices. 
 
-![](../../../_media/_devicefarmimgs/Aspose.Words.a5ba35ee-3494-4720-8f8c-7cedbeae1812.010.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_devicefarmimgs/Aspose.Words.a5ba35ee-3494-4720-8f8c-7cedbeae1812.010.png">
 
 Next, the user is going to want to select an available device on the left panel. Then, on the bottom right panel, the user is going to select an APK or IPA file, then select an App Activity package. After this form has been filled out, click on ‘Generate JSON’.
 
-![](../../../_media/_devicefarmimgs/Aspose.Words.a5ba35ee-3494-4720-8f8c-7cedbeae1812.011.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_devicefarmimgs/Aspose.Words.a5ba35ee-3494-4720-8f8c-7cedbeae1812.011.png">
 
 After clicking on the ‘Generate JSON’, a JSON of the selected APK or IPA will be displayed below the right panel. 
 
-![](../../../_media/_devicefarmimgs/Aspose.Words.a5ba35ee-3494-4720-8f8c-7cedbeae1812.012.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_devicefarmimgs/Aspose.Words.a5ba35ee-3494-4720-8f8c-7cedbeae1812.012.png">

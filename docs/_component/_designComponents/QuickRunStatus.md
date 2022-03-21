@@ -7,7 +7,7 @@ Quick runs are useful for making sure a test runs correctly before sending it fo
 
 After the user creates their test steps, the user can click on the blue ‘Play’ button located on the top right of the screen to begin their quick run. 
 
-![Quick Run 1](../../../_media/_componentImgs/Quick_Run_1.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_componentImgs/Quick_Run_1.png">
 
 When running a quick run on a Mobile and Web component, a pop up will appear that will require more information to start the quick run.
 ### Mobile
@@ -21,7 +21,7 @@ After clicking on the blue ‘Play’ button to begin your quick run, a pop up w
 
 After completing the form and clicking ‘Run’, the quick run will execute.
 
-![Quick Run 2](../../../_media/_componentImgs/Quick_Run_2.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_componentImgs/Quick_Run_2.png">
 ### Web
 After clicking on the blue ‘Play’ button to begin your quick run, a pop up will appear that prompt the user to enter the following:
 
@@ -32,9 +32,9 @@ After clicking on the blue ‘Play’ button to begin your quick run, a pop up w
 
 After completing the form and clicking ‘Run’, the quick run will execute.
 
-![Quick Run 3](../../../_media/_componentImgs/Quick_Run_3.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_componentImgs/Quick_Run_3.png">
 
 ### Viewing Quick Run Status
 When the quick run begins, the user can click on the ‘Lighting Bolt’ icon on the right panel to view their quick run status. 
 
-![Quick Run 4](../../../_media/_componentImgs/Quick_Run_4.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_componentImgs/Quick_Run_4.png">

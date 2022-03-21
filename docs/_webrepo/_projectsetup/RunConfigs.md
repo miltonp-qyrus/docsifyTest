@@ -11,13 +11,13 @@ Run Configuration is a list of arguments, parameters, and settings that describe
 1. Navigate into a Project
 2. Click on ‘Project Setup’
 
-![Run Config 1](../../_media/_webimages/Run_Config_1.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_webimages/Run_Config_1.png">
 
 3. On the left panel click on the tab that says ‘Run Configuration’.
 4. Create Run Configuration 
    - If this is your first Run Configuration, click ‘New Configuration’
 
-![Run Config 1](../../_media/_webimages/Run_Config_2.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_webimages/Run_Config_2.png">
 
 5. When creating a run configuration, the user must enter: 
    1. Run Configuration Name
@@ -33,4 +33,4 @@ Run Configuration is a list of arguments, parameters, and settings that describe
    6. Share Results (Enter recipients' email)
 6. After all the required fields are filled out, click ‘Save Configuration’
 
-![Run Config 1](../../_media/_webimages/Run_Config_3.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_webimages/Run_Config_3.png">

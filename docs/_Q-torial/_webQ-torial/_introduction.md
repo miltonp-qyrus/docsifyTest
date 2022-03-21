@@ -7,13 +7,13 @@ Throughout this Q-torial, you will perform a series of web tests which will fami
 This video discusses the array of web action types, many of which we will be using throughout this course. Feel free to refer to the action types documentation page for more detailed explanations on each action type
 
 <video width="600px" height="400px" border-style= "solid" border-size= 3px border-color= "#E98305" controls>
-  <source src= "https://vidww.s3.us-east-2.amazonaws.com/Clip+8+-+worksheet+1.mp4">
+  <source src= "https://dmdug58z0ycm2.cloudfront.net/production/pub-site/Web/Clip7-Actiontypesoverview.mp4">
 </video>
 
 ## Introduction - Worksheet I 
 
 <video width="600px" height="400px" controls>
-  <source src="/_webrepo/_projectcreation/../../_media/_videos/_webVideos/Clip8-worksheet1.mp4" type="video/mp4">
+  <source src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/Web/Clip8-worksheet1.mp4" type="video/mp4">
 </video>
 
 

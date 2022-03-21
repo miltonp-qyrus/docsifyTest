@@ -10,20 +10,20 @@ Already have tests built? We can run them using our devices with automation test
 ### Creating an Automation Session:
 1. Under Projects, click on “Sessions” for your project
 
-![](../../../_media/_devicefarmimgs/Aspose.Words.a5ba35ee-3494-4720-8f8c-7cedbeae1812.013.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_devicefarmimgs/Aspose.Words.a5ba35ee-3494-4720-8f8c-7cedbeae1812.013.png">
 
 2. Click on the “Automation” tab
 
-![](../../../_media/_devicefarmimgs/Aspose.Words.a5ba35ee-3494-4720-8f8c-7cedbeae1812.038.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_devicefarmimgs/Aspose.Words.a5ba35ee-3494-4720-8f8c-7cedbeae1812.038.png">
 
 3. Click on “Quick Setup Guide”
 
-![](../../../_media/_devicefarmimgs/Aspose.Words.a5ba35ee-3494-4720-8f8c-7cedbeae1812.039.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_devicefarmimgs/Aspose.Words.a5ba35ee-3494-4720-8f8c-7cedbeae1812.039.png">
 
 4. Choose a device to execute the test on
    1. Sort the devices by region, platform, or search for a specific device.
 
-![](../../../_media/_devicefarmimgs/Aspose.Words.a5ba35ee-3494-4720-8f8c-7cedbeae1812.040.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_devicefarmimgs/Aspose.Words.a5ba35ee-3494-4720-8f8c-7cedbeae1812.040.png">
 
 5. Select an application file to test
    1. Android
@@ -33,15 +33,15 @@ Already have tests built? We can run them using our devices with automation test
       1. Choose the “IPA File”
 6. Click “Generate JSON”
 
-![](../../../_media/_devicefarmimgs/Aspose.Words.a5ba35ee-3494-4720-8f8c-7cedbeae1812.041.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_devicefarmimgs/Aspose.Words.a5ba35ee-3494-4720-8f8c-7cedbeae1812.041.png">
 
 7. Click “Copy JSON”
 
-![](../../../_media/_devicefarmimgs/Aspose.Words.a5ba35ee-3494-4720-8f8c-7cedbeae1812.042.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_devicefarmimgs/Aspose.Words.a5ba35ee-3494-4720-8f8c-7cedbeae1812.042.png">
 
 **Note:** This is the JSON generated for the device and application that you picked. This will be copied in to your testing framework
 
-![](../../../_media/_devicefarmimgs/Aspose.Words.a5ba35ee-3494-4720-8f8c-7cedbeae1812.043.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_devicefarmimgs/Aspose.Words.a5ba35ee-3494-4720-8f8c-7cedbeae1812.043.png">
 
 **Note:** This is the server information that will be added to the testing framework.
 
@@ -51,11 +51,11 @@ Already have tests built? We can run them using our devices with automation test
 
 **Note:** This is an example using java and an iOS device.
 
-![](../../../_media/_devicefarmimgs/Aspose.Words.a5ba35ee-3494-4720-8f8c-7cedbeae1812.044.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_devicefarmimgs/Aspose.Words.a5ba35ee-3494-4720-8f8c-7cedbeae1812.044.png">
 
 **Note:** This is an example using java and an Android device.
 
-![](../../../_media/_devicefarmimgs/Aspose.Words.a5ba35ee-3494-4720-8f8c-7cedbeae1812.045.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_devicefarmimgs/Aspose.Words.a5ba35ee-3494-4720-8f8c-7cedbeae1812.045.png">
 
 9. After adding the server and device capabilities, run the test.
 

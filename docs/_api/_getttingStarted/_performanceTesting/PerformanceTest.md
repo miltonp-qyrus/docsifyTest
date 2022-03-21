@@ -7,7 +7,7 @@
 
 Navigate back to a project click the ‘Performance Testing’ tab located on the top left of the page. 
 
-![](../../../_media/_apiImgs/Aspose.Words.1a0bb08a-a30f-4674-a26b-60d476b195cd.007.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_apiImgs/Aspose.Words.1a0bb08a-a30f-4674-a26b-60d476b195cd.007.png">
 
 ### Importing an API
 Swagger is a suite of API developer tools used to automate API processes across the entire API lifecycle. 
@@ -22,26 +22,26 @@ For this example, we will be using the Pet Store API. The link can be found here
 
 **Note:** Make sure there is no white space before or after the Swagger URL when pasting it into the input form. 
 
-![](../../../_media/_apiImgs/Aspose.Words.1a0bb08a-a30f-4674-a26b-60d476b195cd.008.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_apiImgs/Aspose.Words.1a0bb08a-a30f-4674-a26b-60d476b195cd.008.png">
 
 After clicking on ‘Get APIs’, a list of APIs will appear with checkboxes next to their names. The user then: 
 
 1. ` `Selects the checkboxes for the API’s they would like the generate
 2. Click ‘Generate Test Script’
 
-![](../../../_media/_apiImgs/Aspose.Words.1a0bb08a-a30f-4674-a26b-60d476b195cd.009.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_apiImgs/Aspose.Words.1a0bb08a-a30f-4674-a26b-60d476b195cd.009.png">
 
 ### Uploading Swagger JSON
 If the user has a Swagger JSON file, click on ‘Browse’. This will bring the user to their File Explorer. From here, they can navigate through their File Explorer and upload their Swagger JSON file.
 
-![](../../../_media/_apiImgs/Aspose.Words.1a0bb08a-a30f-4674-a26b-60d476b195cd.010.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_apiImgs/Aspose.Words.1a0bb08a-a30f-4674-a26b-60d476b195cd.010.png">
 
 ## Running API Performance Test
 
 1. Going under the ‘Action’ header, and then selecting the run icon
 
-![](../../../_media/_apiImgs/Aspose.Words.1a0bb08a-a30f-4674-a26b-60d476b195cd.011.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_apiImgs/Aspose.Words.1a0bb08a-a30f-4674-a26b-60d476b195cd.011.png">
 
 2. After running a test, a pop up will appear that will prompt the user to simulate a number of threads and add a threshold for a response time. Enter in these values and then click ‘Run’.
 
-![](../../../_media/_apiImgs/Aspose.Words.1a0bb08a-a30f-4674-a26b-60d476b195cd.012.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_apiImgs/Aspose.Words.1a0bb08a-a30f-4674-a26b-60d476b195cd.012.png">

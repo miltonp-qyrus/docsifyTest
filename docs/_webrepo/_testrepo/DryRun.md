@@ -19,7 +19,7 @@ To view how a test script will execute before actually passing it into real-life
 
 1. From the desired test script page, click ‘Dry Run’ button
 
-![Dry Run 1](../../_media/_webimages/Aspose.Words.404e87e9-6ed7-4fc7-ac81-b7d471d1c9f8.070.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_webimages/Aspose.Words.404e87e9-6ed7-4fc7-ac81-b7d471d1c9f8.070.png">
 
 2. Select desired ‘Environment Variable’
 3. Select desired ‘Browser’
@@ -29,16 +29,16 @@ To view how a test script will execute before actually passing it into real-life
 5. Click Run test
    1. Run execution will automatically navigate you back to the test page
 
-![Dry Run 2](../../_media/_webimages/Aspose.Words.404e87e9-6ed7-4fc7-ac81-b7d471d1c9f8.012.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_webimages/Aspose.Words.404e87e9-6ed7-4fc7-ac81-b7d471d1c9f8.012.png">
 
 6. Use the side-bar menu on the right to navigate to the ‘Dry Runs’ tab. 
    1. Click the arrow button on the top right corner of the menu
    2. Locate and click on the ‘Dry Runs’ tab
 
-![Dry Run 3](../../_media/_webimages/Aspose.Words.404e87e9-6ed7-4fc7-ac81-b7d471d1c9f8.071.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_webimages/Aspose.Words.404e87e9-6ed7-4fc7-ac81-b7d471d1c9f8.071.png">
 
 7. Verify the test passed
    1. Refer to the quick bar of the ‘Last 5 completed executions’ 
    2. For a more detailed idea refer to the ‘Results’ tab which includes status, date, and time.
 
-![Dry Run 4](../../_media/_webimages/Aspose.Words.404e87e9-6ed7-4fc7-ac81-b7d471d1c9f8.014.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_webimages/Aspose.Words.404e87e9-6ed7-4fc7-ac81-b7d471d1c9f8.014.png">

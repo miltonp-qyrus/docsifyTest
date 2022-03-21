@@ -16,4 +16,4 @@ This is where you will create global variables that can be used throughout the e
 - FirstName - any first name
 - LastName - any last name
 
-![DB](../../../_media/_componentImgs/Global_Var_1.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_componentImgs/Global_Var_1.png">

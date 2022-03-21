@@ -12,7 +12,7 @@ Healer is an advanced AI tool that users can enable before they execute their te
 2. Create an example project, module, and test script
 3. Add the three test steps below to the test script and save it:
 
-![Healer 1](../../_media/_webimages/Aspose.Words.404e87e9-6ed7-4fc7-ac81-b7d471d1c9f8.109.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_webimages/Aspose.Words.404e87e9-6ed7-4fc7-ac81-b7d471d1c9f8.109.png">
 
 4. Navigate to the Test Lab in Web Repository
 5. Create an example suite and import the example test script
@@ -20,7 +20,7 @@ Healer is an advanced AI tool that users can enable before they execute their te
 7. Choose the preferred browser to execute on
 8. Navigate to the Healer AI option and click the Run with Healer button:
 
-![Healer 2](../../_media/_webimages/Aspose.Words.404e87e9-6ed7-4fc7-ac81-b7d471d1c9f8.110.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_webimages/Aspose.Words.404e87e9-6ed7-4fc7-ac81-b7d471d1c9f8.110.png">
 
 9. Run the test, wait for it to finish executing, and make sure it passes (this is to baseline your test)
 
@@ -30,11 +30,11 @@ Healer is an advanced AI tool that users can enable before they execute their te
 1. Once finished executing, the test will fail on clicking the search button
 1. View the report and click on the Healer button in order to view the Healer Response:
 
-![Healer 3](../../_media/_webimages/Aspose.Words.404e87e9-6ed7-4fc7-ac81-b7d471d1c9f8.111.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_webimages/Aspose.Words.404e87e9-6ed7-4fc7-ac81-b7d471d1c9f8.111.png">
 
 ## Healer Demonstration
 
 <video width="600px" height="400px" controls>
-  <source src="/_webrepo/_projectcreation/../../_media/_videos/_webVideos/Clip20-Healer.mp4" type="video/mp4">
+  <source src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/Web/Clip20-Healer.mp4" type="video/mp4">
 </video>
 

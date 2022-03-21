@@ -20,7 +20,7 @@ Navigate to ‘Web Repository’, select desired project, click ‘Test Reposito
 1. Under the ‘Dry Runs’ menu tab, locate the ‘Results’ section for the previously executed ‘Dry Run’
 2. Click the arrow on the right side of the desired ‘Dry Run’
 
-![Reports 1](../../_media/_webimages/Aspose.Words.404e87e9-6ed7-4fc7-ac81-b7d471d1c9f8.072.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_webimages/Aspose.Words.404e87e9-6ed7-4fc7-ac81-b7d471d1c9f8.072.png">
 
 3. The Reports page can be divided into three important sections
    1. The results bar, the metrics bar, and the step execution table.
@@ -30,14 +30,14 @@ Navigate to ‘Web Repository’, select desired project, click ‘Test Reposito
    1. A button to download the report
    1. A button to display execution specific metrics  
 
-![Reports 2](../../_media/_webimages/Aspose.Words.404e87e9-6ed7-4fc7-ac81-b7d471d1c9f8.073.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_webimages/Aspose.Words.404e87e9-6ed7-4fc7-ac81-b7d471d1c9f8.073.png">
 
 5. It is important to note the video recording feature 
    1. One of the most unique and widely used features by clicking the video button it will display the live video of the test execution
    1. The video speed, size, and volume can be toggled alongside pausing functionality anytime.
    1. The video can also be exported and saved for documentation purposes
 
-![Reports 3](../../_media/_webimages/Aspose.Words.404e87e9-6ed7-4fc7-ac81-b7d471d1c9f8.074.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_webimages/Aspose.Words.404e87e9-6ed7-4fc7-ac81-b7d471d1c9f8.074.png">
 
 6. The metrics bar is located to the right of the results bar within the top navigation bar. It is comprised of multiple metrics including:
    1. Number of total test executions
@@ -48,7 +48,7 @@ Navigate to ‘Web Repository’, select desired project, click ‘Test Reposito
    1. Time metrics
       1. Total execution time, start time, end time, and date
 
-![Reports 4](../../_media/_webimages/Aspose.Words.404e87e9-6ed7-4fc7-ac81-b7d471d1c9f8.075.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_webimages/Aspose.Words.404e87e9-6ed7-4fc7-ac81-b7d471d1c9f8.075.png">
 
 7. The executions table is located on the center of the page and consists of the per step executions of the given test. The table consists of:
    1. Each individually listed step
@@ -58,16 +58,16 @@ Navigate to ‘Web Repository’, select desired project, click ‘Test Reposito
    1. The step data
    1. A button to display screenshots of a given step
 
-![Reports 5](../../_media/_webimages/Aspose.Words.404e87e9-6ed7-4fc7-ac81-b7d471d1c9f8.019.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_webimages/Aspose.Words.404e87e9-6ed7-4fc7-ac81-b7d471d1c9f8.019.png">
 
 8. It is important to note the screenshot feature
    1. One of the most unique and widely used features by clicking on the screenshot button it will display a screenshot of the step being executed. 
    1. Screenshots are available for every step of the test script, but can also be toggled for desired use only
 
-![Reports 6](../../_media/_webimages/Aspose.Words.404e87e9-6ed7-4fc7-ac81-b7d471d1c9f8.020.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_webimages/Aspose.Words.404e87e9-6ed7-4fc7-ac81-b7d471d1c9f8.020.png">
 
 ## Dry Running, Results, & Reports
 
 <video width="600px" height="400px" controls>
-  <source src="/_webrepo/_projectcreation/../../_media/_videos/_webVideos/Clip14-DryrunningReportsResults.mp4" type="video/mp4">
+  <source src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/Web/Clip14-DryrunningReportsResults.mp4" type="video/mp4">
 </video>

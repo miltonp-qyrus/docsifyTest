@@ -9,17 +9,17 @@ Scheduling Runs allows the user to set a time and date for when a set of tests a
 ### Creating Scheduled Runs
 The first step the user will want to do is to click onto ‘Test Lab’.
 
-![Executing Test 1](../../_media/_webimages/Lab_Executing_Test_1.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_webimages/Lab_Executing_Test_1.png">
 
 From here, the user will have two options for scheduling a run
 
 1. If a user wants to schedule a run for more than one script, the user can select the scripts they want to run by clicking on the checkbox associated with that script. After all the desired scripts have been selected, click on ‘Execute’ and then ‘Execute Test’
 
-![Lab Creating Schedule 1](../../_media/_webimages/Lab_Creating_Sched_1.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_webimages/Lab_Creating_Sched_1.png">
 
 2. The user can also navigate into their desired script by clicking on the right arrow associated with that script. Then, the user can select ‘Execute’ and ‘Execute Test’
 
-![Lab Creating Schedule 2](../../_media/_webimages/Lab_Creating_Sched_2.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_webimages/Lab_Creating_Sched_2.png">
 
 After clicking ‘Execute Test’, the user will be brought to the ‘Select Brower’ Page. The user can select between Google Chrome, Mozilla Firefox and Internet Explorer. They can choose more than one option.
 
@@ -27,11 +27,11 @@ After selecting a browser, click on ‘Schedule Test’, which is located on the
 
 3. For a one-time scheduled test, the user must select a time, time zone and a date
 
-![Lab Creating Schedule 3](../../_media/_webimages/Lab_Creating_Sched_3.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_webimages/Lab_Creating_Sched_3.png">
 
 4. For a repeated schedule test the user has the option to select weekly, daily, and/or hourly. For the weekly option the user selects the week, then selects the time, time zone and date. For the daily and hourly option, the user selects the time, time zone and date.
 
-![Lab Creating Schedule 4](../../_media/_webimages/Lab_Creating_Sched_4.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_webimages/Lab_Creating_Sched_4.png">
 
 Click ‘Schedule Test’
 
@@ -42,12 +42,12 @@ There are two ways to view your scheduled runs:
    1. Under Analysis the user will see Test Lab
    1. Click ‘Scheduled Runs’
 
-![Lab Viewing Schedule 1](../../_media/_webimages/Lab_View_Sched_1.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_webimages/Lab_View_Sched_1.png">
 
 1. Navigate into a project and click the hamburger icon in the top right corner
    2. Under ‘Reports’ click on ‘Scheduled Runs’
 
-![Lab Viewing Schedule 2](../../_media/_webimages/Lab_View_Sched_2.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_webimages/Lab_View_Sched_2.png">
 
 After clicking on ‘Scheduled Runs’, the user will be able:
 
@@ -59,6 +59,6 @@ After clicking on ‘Scheduled Runs’, the user will be able:
 ## Creating Scheduled Runs
 
 <video width="600px" height="400px" controls>
-  <source src="/_webrepo/_projectcreation/../../_media/_videos/_webVideos/Clip17-CreatingScheduledruns.mp4" type="video/mp4">
+  <source src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/Web/Clip17-CreatingScheduledruns.mp4" type="video/mp4">
 </video>
 

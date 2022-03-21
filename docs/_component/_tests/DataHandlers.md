@@ -8,9 +8,10 @@ Data handlers can be found in the ‘Test Steps’ portion of the API test compo
 - Get (GetDataHandler)
 - Set (SetDataHandler)
 
-![](../../../_media/_componentImgs/Aspose.Words.2f572e7c-e1bc-424a-bb14-b916aa36d020.037.png)The ’Get’ Data handler allows the user to capture API response values and store them in variable format for future use. This handler requires the desired Json Path, and a variable name. For request bodies, the User should enter ’$’ as the Json Path with a variable name in the variable field. 
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_componentImgs/Aspose.Words.2f572e7c-e1bc-424a-bb14-b916aa36d020.037.png">
+The ’Get’ Data handler allows the user to capture API response values and store them in variable format for future use. This handler requires the desired Json Path, and a variable name. For request bodies, the User should enter ’$’ as the Json Path with a variable name in the variable field. 
 
-![](../../../_media/_componentImgs/Aspose.Words.2f572e7c-e1bc-424a-bb14-b916aa36d020.038.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_componentImgs/Aspose.Words.2f572e7c-e1bc-424a-bb14-b916aa36d020.038.png">
 
 The ‘Set’ Data handler bridges the test script with the given API call. The handler requires:
 
@@ -23,16 +24,16 @@ The ‘Set’ Data handler bridges the test script with the given API call. The 
   - Request Key
   - Header
 
-![](../../../_media/_componentImgs/Aspose.Words.2f572e7c-e1bc-424a-bb14-b916aa36d020.039.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_componentImgs/Aspose.Words.2f572e7c-e1bc-424a-bb14-b916aa36d020.039.png">
 
 During the Test Step creation phase, it is important to note:
 
 - If there are parameterized steps included in any given component test (web, mobile, or API) the parameterization can be handled in step using the parameterization dropdown, or within the file using a ‘~’ in replacement of the desired test step to skip. 
 
-![](../../../_media/_componentImgs/Aspose.Words.2f572e7c-e1bc-424a-bb14-b916aa36d020.040.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_componentImgs/Aspose.Words.2f572e7c-e1bc-424a-bb14-b916aa36d020.040.png">
 
 - The ‘Mark As Component’ feature allows you to flag given test scripts upon creation. These scripts are now available in the ‘Component testing’ menu and can be easily imported into component tests.
 
-![](../../../_media/_componentImgs/Aspose.Words.2f572e7c-e1bc-424a-bb14-b916aa36d020.041.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_componentImgs/Aspose.Words.2f572e7c-e1bc-424a-bb14-b916aa36d020.041.png">
 
 It is also important to note the ‘Test steps’ page. 

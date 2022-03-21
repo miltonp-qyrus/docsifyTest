@@ -2,15 +2,15 @@
 
 # Functional Testing
 ## Creating Test Scripts <!-- {docsify-ignore} --> 
-![](../../../_media/_apiImgs/Aspose.Words.1a0bb08a-a30f-4674-a26b-60d476b195cd.025.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_apiImgs/Aspose.Words.1a0bb08a-a30f-4674-a26b-60d476b195cd.025.png">
 
 After creating a **Test Suite** you will be displayed four ways to create an API
 
 ### Creating Scripts Manually
-![](../../../_media/_apiImgs/Aspose.Words.1a0bb08a-a30f-4674-a26b-60d476b195cd.030.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_apiImgs/Aspose.Words.1a0bb08a-a30f-4674-a26b-60d476b195cd.030.png">
 Click on **Add** to start creating a new API Test Manually
 
-![](../../../_media/_apiImgs/Aspose.Words.1a0bb08a-a30f-4674-a26b-60d476b195cd.031.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_apiImgs/Aspose.Words.1a0bb08a-a30f-4674-a26b-60d476b195cd.031.png">
 For this, lets create a sample API Test fill out your boxes with:
 
 **Name: Dog Facts**
@@ -45,18 +45,18 @@ If you do not want to create your own API you can import a script through **two*
 
 - Through a website, for this example [**https://petstore.swagger.io/v2/swagger.json**](https://petstore.swagger.io/v2/swagger.json)
 
-![](../../../_media/_apiImgs/Aspose.Words.1a0bb08a-a30f-4674-a26b-60d476b195cd.026.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_apiImgs/Aspose.Words.1a0bb08a-a30f-4674-a26b-60d476b195cd.026.png">
 
 - Through importing from your local machine
 
-![](../../../_media/_apiImgs/Aspose.Words.1a0bb08a-a30f-4674-a26b-60d476b195cd.027.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_apiImgs/Aspose.Words.1a0bb08a-a30f-4674-a26b-60d476b195cd.027.png">
 
 **Note:** You can give the .JSON file any name, as long as the context inside has the correct information
 
-![](../../../_media/_apiImgs/Aspose.Words.1a0bb08a-a30f-4674-a26b-60d476b195cd.028.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_apiImgs/Aspose.Words.1a0bb08a-a30f-4674-a26b-60d476b195cd.028.png">
 
 After you import either from a **file** or **URL** you will be shown the lists of APIs you can select from
 
-![](../../../_media/_apiImgs/Aspose.Words.1a0bb08a-a30f-4674-a26b-60d476b195cd.029.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_apiImgs/Aspose.Words.1a0bb08a-a30f-4674-a26b-60d476b195cd.029.png">
 
 Once you have chosen your APIs they will be automatically added to the list with the other APIs created **manually** or **imported**

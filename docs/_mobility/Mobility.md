@@ -112,7 +112,7 @@ The Mobility service is comprised of 2 basic steps:
 5. Checkmark any teammates that will be working on the project 
 6. Click ‘Create Project’  
 
-![](Aspose.Words.9669dacf-cbe9-43ca-9e35-18f0bd3278e7.001.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_mobileimages/Mobile_Create_Project.png">
 ## **Test Suites**
 ### **Prerequisites:** 
 - Basic knowledge on how to build a Project 
@@ -122,74 +122,72 @@ Test Suites are folders where you can store and organize your test scripts. This
 
 1. Click on ‘Create Suite’
 
-![](Aspose.Words.9669dacf-cbe9-43ca-9e35-18f0bd3278e7.002.png)
-
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_mobileimages/Test_Suite_1.png">
 1. Enter a Test Suite Name
 1. Enter a Module Name 
 1. Click on ‘Create Suite’
 
-![](Aspose.Words.9669dacf-cbe9-43ca-9e35-18f0bd3278e7.003.png)
-## **Project Setup**
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_mobileimages/Test_Suite_2.png">
 ### **Prerequisites:** 
 - Created Project 
 
-![](Aspose.Words.9669dacf-cbe9-43ca-9e35-18f0bd3278e7.004.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_mobileimages/Project_Setup_Prerequisites.png">
 
 ### **App Management**
 Click on ‘Application Management’ to upload your apk or ipa file based on your device type
 
-![](Aspose.Words.9669dacf-cbe9-43ca-9e35-18f0bd3278e7.005.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_mobileimages/Project_Setup_App_Management_1.png">
 
 1. Click on ‘Upload APK’ or ‘Upload IPA’
 
-![](Aspose.Words.9669dacf-cbe9-43ca-9e35-18f0bd3278e7.006.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_mobileimages/Project_Setup_App_Management_2.png">
 
 1. Click on ‘Choose File’ and select your APK or IPA file or drag the file inside the square
 
-![](Aspose.Words.9669dacf-cbe9-43ca-9e35-18f0bd3278e7.007.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_mobileimages/Project_Setup_App_Management_3.png">
 
 1. When uploaded successfully, you will see the app as shown below
 
-![](Aspose.Words.9669dacf-cbe9-43ca-9e35-18f0bd3278e7.008.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_mobileimages/Project_Setup_App_Management_4.png">
 
 
 ### **Database Configuration**
 Click on ‘Database Configuration’ to setup your database connection
 
-![](Aspose.Words.9669dacf-cbe9-43ca-9e35-18f0bd3278e7.009.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_mobileimages/Project_Setup_DB_Config_1.png">
 
 1. Click on ‘New Configuration’
 
-![](Aspose.Words.9669dacf-cbe9-43ca-9e35-18f0bd3278e7.010.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_mobileimages/Project_Setup_DB_Config_2.png">
 
 1. Enter a Configuration Name
 1. Enter your database information
 1. Click ‘Create Config’
 
-` `![](Aspose.Words.9669dacf-cbe9-43ca-9e35-18f0bd3278e7.011.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_mobileimages/Project_Setup_DB_Config_3.png">
 
 1. When created successfully, you will see your database as shown below
 
-![](Aspose.Words.9669dacf-cbe9-43ca-9e35-18f0bd3278e7.012.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_mobileimages/Project_Setup_DB_Config_4.png">
 
 ### **Device Pool**
 Click on ‘Device Pool’ to setup devices to run your tests on
 
-![](Aspose.Words.9669dacf-cbe9-43ca-9e35-18f0bd3278e7.013.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_mobileimages/Project_Setup_Device_Pool_1.png">
 
 1. Click on ‘New Device Pool’
 
-![](Aspose.Words.9669dacf-cbe9-43ca-9e35-18f0bd3278e7.014.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_mobileimages/Project_Setup_Device_Pool_2.png">
 
 1. Enter a Device Pool Name
 1. Check the devices you want in this device pool
 1. Click ‘Save and Continue’
 
-![](Aspose.Words.9669dacf-cbe9-43ca-9e35-18f0bd3278e7.015.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_mobileimages/Project_Setup_Device_Pool_3.png">
 
 1. ` `When created successfully, you will see your device pool as shown below
 
-![](Aspose.Words.9669dacf-cbe9-43ca-9e35-18f0bd3278e7.016.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_mobileimages/Project_Setup_Device_Pool_4.png">
 ### **Global Variables**
 Global variables are recommended when:
 
@@ -198,11 +196,11 @@ Global variables are recommended when:
 
 Click on ‘Global Variables’ to create the variables
 
-![](Aspose.Words.9669dacf-cbe9-43ca-9e35-18f0bd3278e7.017.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_mobileimages/Project_Setup_Global_Variable_1.png">
 
 1. Click on ‘Add’
 
-` `![](Aspose.Words.9669dacf-cbe9-43ca-9e35-18f0bd3278e7.018.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_mobileimages/Project_Setup_Global_Variable_2.png">
 
 1. Click on the dropdown menu for ‘Type’ and select an option
 1. Enter a Variable Name
@@ -211,12 +209,12 @@ Click on ‘Global Variables’ to create the variables
 1. Click the red trashcan to delete the variable
 1. Click ‘Save’ to be able to use the variables created
 
-![](Aspose.Words.9669dacf-cbe9-43ca-9e35-18f0bd3278e7.019.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_mobileimages/Project_Setup_Global_Variable_3.png">
 
 ### **Remote Devices**
 Click ‘Remote Devices’ to connect to the devices allocated in Qyrus
 
-![](Aspose.Words.9669dacf-cbe9-43ca-9e35-18f0bd3278e7.020.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_mobileimages/Project_Setup_Remote_Devices_1.png">
 
 1. Select the device region
 1. Select the application file you’ve uploaded on ‘Application Management’
@@ -225,11 +223,11 @@ Click ‘Remote Devices’ to connect to the devices allocated in Qyrus
 1. Enter the device name to narrow down device results
 1. Click the ‘Clipboard icon’ button to copy the capabilities in JSON format
 
-` `![](Aspose.Words.9669dacf-cbe9-43ca-9e35-18f0bd3278e7.021.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_mobileimages/Project_Setup_Remote_Devices_2.png">
 
 1. When done successfully, you will see the success message as shown below
 
-![](Aspose.Words.9669dacf-cbe9-43ca-9e35-18f0bd3278e7.022.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_mobileimages/Project_Setup_Remote_Devices_3.png">
 
 ## **Test Scripts**
 ### **Prerequisites:** 
@@ -240,21 +238,19 @@ Click ‘Remote Devices’ to connect to the devices allocated in Qyrus
 
 **Step 1:** User can also ***Create Test Script*** using ***Create Manually Test Script*** option by entering ***Test Script Name, Module Name*** and ***Objective*** of the test script.
 
-` `![](Aspose.Words.9669dacf-cbe9-43ca-9e35-18f0bd3278e7.023.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_mobileimages/Test_Script_Create_Manually_1.png">
 
 **Step 2:** Your script is now created. Click on the icon highlighted below to start building the action steps with the device. 
 
 
 
-![](Aspose.Words.9669dacf-cbe9-43ca-9e35-18f0bd3278e7.024.png)
-
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_mobileimages/Test_Script_Create_Manually_2.png">
 **Step 3:** Tap on the device icon highlighted below to make the device screenshot panel disappear 
 
-![](Aspose.Words.9669dacf-cbe9-43ca-9e35-18f0bd3278e7.025.png)
-
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_mobileimages/Test_Script_Create_Manually_3.png">
 Now you are ready to start building your test script
 
-![](Aspose.Words.9669dacf-cbe9-43ca-9e35-18f0bd3278e7.026.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_mobileimages/Test_Script_Create_Manually_4.png">
 ### **Creating Scripts Using Live Test**
 
 - **Objective**: Get Mobile device to web browser
@@ -264,51 +260,47 @@ After creating the project and test suite, now we can Create a Test Script
 
 **Step 1:** Click on the Create Test Script Button
 
-![](Aspose.Words.9669dacf-cbe9-43ca-9e35-18f0bd3278e7.027.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_mobileimages/Test_Script_Create_Live_1.png">
 
 **Step 2:** Enter the Test Script Name, Module Name, and the Objective of your test script. The Next button helps the user to select the application and choose the device created from the device pool section. 
 
-![](Aspose.Words.9669dacf-cbe9-43ca-9e35-18f0bd3278e7.028.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_mobileimages/Test_Script_Create_Live_2.png">
 
 
-**Step 3:** Choose your APK/IPA file and Device Pool that you had uploaded in the Setup section ![](Aspose.Words.9669dacf-cbe9-43ca-9e35-18f0bd3278e7.029.png)
+**Step 3:** Choose your APK/IPA file and Device Pool that you had uploaded in the Setup section <source <img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_mobileimages/Test_Script_Create_Live_3.png">
 
 **Step 4:** You will then be asked to select your App Activity
 
-![](Aspose.Words.9669dacf-cbe9-43ca-9e35-18f0bd3278e7.030.png)
-
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_mobileimages/Test_Script_Create_Live_4.png">
 **Step 5:** After selecting your device, you will be able to see the status of the device highlighted below. 
 
-![](Aspose.Words.9669dacf-cbe9-43ca-9e35-18f0bd3278e7.031.png)
-
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_mobileimages/Test_Script_Create_Live_5.png">
 **Step 6:** Click the “Build Live Test” button
 
 Now you are ready to start building your test script
 
-![](Aspose.Words.9669dacf-cbe9-43ca-9e35-18f0bd3278e7.032.png)
-
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_mobileimages/Test_Script_Create_Live_6.png">
 Users also have an option to ***import the scripts to Restore point***. After selecting your APK/IPA file and device pool, users should click on ***Advanced Options*** to ***import the scripts***.
 
-![](Aspose.Words.9669dacf-cbe9-43ca-9e35-18f0bd3278e7.033.png)
-
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_mobileimages/Test_Script_Create_Live_7.png">
 Click on ***Import test script to restore point*** button so you can see the list of suites.
 
-![](Aspose.Words.9669dacf-cbe9-43ca-9e35-18f0bd3278e7.034.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_mobileimages/Test_Script_Create_Live_8.png">
 
 After clicking on suite, user can see the list of scripts, select the script*** which needs to be imported and click on ***Import*** button.
 
-![](Aspose.Words.9669dacf-cbe9-43ca-9e35-18f0bd3278e7.035.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_mobileimages/Test_Script_Create_Live_9.png">
 
 After importing the script user should click on the ***Build Live Test*** button.
 
-![](Aspose.Words.9669dacf-cbe9-43ca-9e35-18f0bd3278e7.036.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_mobileimages/Test_Script_Create_Live_10.png">
 
 ### **Interacting with device during live test building**
 This section covers connecting to a device and details of the icons in interacting with the device. 
 
 If you are not connected to a device, click on the highlighted button as shown below to connect to a device.
 
-![](Aspose.Words.9669dacf-cbe9-43ca-9e35-18f0bd3278e7.037.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_mobileimages/Test_Script_Interacting_Live_1.png">
 
 Once you are connected, you are able to interact with the device using these buttons
 
@@ -319,7 +311,8 @@ Once you are connected, you are able to interact with the device using these but
 1. Click on the ‘Quick Search’ toggle fetch locator values that are quicker to find
 1. Click on the ‘Green Tilted Phone’ button to disconnect the device
 
-![](Aspose.Words.9669dacf-cbe9-43ca-9e35-18f0bd3278e7.038.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_mobileimages/Test_Script_Interacting_Live_2.png">
+
 ## **Adding Test Script Steps**
 
 ### **Prerequisites:** 
@@ -337,7 +330,8 @@ A test script is comprised of one or more steps. For each step, you will general
 **Note:** After each step creation, make sure to save your script before you leave or execute. 
 
 
-![](Aspose.Words.9669dacf-cbe9-43ca-9e35-18f0bd3278e7.039.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_mobileimages/Add_Steps_1.png">
+
 
 In this example, we will type out the username by fetching the locator value for username
 
@@ -345,33 +339,32 @@ In the Description, you can say “Set Username”.
 
 To fetch the location of an element, click on the location where you want to fetch the value from with your mouse. 
 
-![](Aspose.Words.9669dacf-cbe9-43ca-9e35-18f0bd3278e7.040.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_mobileimages/Add_Steps_2.png">
 
 Wait for the green notification bar saying “The element has been set successfully” and the Id Value will appear automatically.
 
 
-![](Aspose.Words.9669dacf-cbe9-43ca-9e35-18f0bd3278e7.041.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_mobileimages/Add_Steps_3.png">
 
 You can also check if it selected the element that you expected using “Verify Element” button. The bounding boxes should appear on the mobile device with the green notification saying “Bound has set successfully”. 
 
-![](Aspose.Words.9669dacf-cbe9-43ca-9e35-18f0bd3278e7.042.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_mobileimages/Add_Steps_4.png">
 
 For this step, lets type out the username. You would want to change the Action Type to “Set” under “Input Events”. 
 
-![](Aspose.Words.9669dacf-cbe9-43ca-9e35-18f0bd3278e7.043.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_mobileimages/Add_Steps_5.png">
 
 You can now check to see if the step actually passes by clicking on “Execute Step”. We can also see whether it typed “admin” on the username field and seeing the green “Pass”. 
 
-![](Aspose.Words.9669dacf-cbe9-43ca-9e35-18f0bd3278e7.044.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_mobileimages/Add_Steps_6.png">
 
 Users can also make a particular step as ***Optional*** and ***Enable/Disable the Screenshot*** for the step in Step Creator.
 
-![](Aspose.Words.9669dacf-cbe9-43ca-9e35-18f0bd3278e7.045.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_mobileimages/Add_Steps_7.png">
 
 Now you can “Push to Script”
 
-![](Aspose.Words.9669dacf-cbe9-43ca-9e35-18f0bd3278e7.046.png)
-
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_mobileimages/Add_Steps_8.png">
 
 # **Executing Tests & Viewing Reports**
 ## **Prerequisites:** 
@@ -390,11 +383,11 @@ Now you can “Push to Script”
 
 **Step 1:** To save a test script, click on the Save button highlighted below
 
-![](Aspose.Words.9669dacf-cbe9-43ca-9e35-18f0bd3278e7.047.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_mobileimages/Execute_1.png">
 
 **Step 2:** Click on the execute button on the top right. It will drop down the 2 ways of executing the tests: **Dry Run** and **Execute Run** 
 
-![](Aspose.Words.9669dacf-cbe9-43ca-9e35-18f0bd3278e7.048.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_mobileimages/Execute_2.png">
 
 **Dry Run** helps you run your test script without generating a report
 
@@ -402,96 +395,93 @@ Now you can “Push to Script”
 
 **Step 3:** If you click on Dry Run, it would lead you to the following screen
 
-![](Aspose.Words.9669dacf-cbe9-43ca-9e35-18f0bd3278e7.049.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_mobileimages/Execute_3.png">
 
 **Step 4:** Select the options with the right APK/IPA file, app activity, and Device pool of the app. 
 
-![](Aspose.Words.9669dacf-cbe9-43ca-9e35-18f0bd3278e7.050.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_mobileimages/Execute_4.png">
 
 **Step 5:** Click on Execute Run
 
 **Step 6:** Click on the Dry Run tab at the top to see the status of your “Dry Run” tests
 
-![](Aspose.Words.9669dacf-cbe9-43ca-9e35-18f0bd3278e7.051.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_mobileimages/Execute_5.png">
 
 **Step 7:** You can click the “Refresh” button to see the updated status of your tests. The “Refresh Time” dropdown helps you to automatically update the result every 5s, 10, 15s, 30s, 45s, 60s without having to press the refresh button multiple times. 
 
-![](Aspose.Words.9669dacf-cbe9-43ca-9e35-18f0bd3278e7.052.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_mobileimages/Execute_6.png">
 
 **Step 8:** You will see the test result under the “Status” column with either Pass/Fail/Cancelled
 
 Note: *Dry Run tests gives the status of your last 5 tests only.* 
 
-![](Aspose.Words.9669dacf-cbe9-43ca-9e35-18f0bd3278e7.053.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_mobileimages/Execute_7.png">
 
 **Step 9:** Click on “View Details” to see the detail steps of your scripts
 
-![](Aspose.Words.9669dacf-cbe9-43ca-9e35-18f0bd3278e7.054.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_mobileimages/Execute_8.png">
 
 **Step 10:** You can see the screenshots of each action of your script here
 
-![](Aspose.Words.9669dacf-cbe9-43ca-9e35-18f0bd3278e7.055.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_mobileimages/Execute_9.png">
 
 **Viewing Reports**
 
 Execute run helps to generate reports of a test script.
 
-![](Aspose.Words.9669dacf-cbe9-43ca-9e35-18f0bd3278e7.044.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_mobileimages/View_Report_1.png">
+
 
 Select the options with the right APK or IPA file, app activity, and Device pool of the app and click the “Execute Now” button
 
-![](Aspose.Words.9669dacf-cbe9-43ca-9e35-18f0bd3278e7.056.png)
-
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_mobileimages/View_Report_2.png">
 Click on the Reports tab
 
-![](Aspose.Words.9669dacf-cbe9-43ca-9e35-18f0bd3278e7.057.png)
-
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_mobileimages/View_Report_3.png">
 **Running Tests** tab shows you the status of the running tests
 
 **Test Results** tab shows you the status of your completed tests
 
 
-![](Aspose.Words.9669dacf-cbe9-43ca-9e35-18f0bd3278e7.058.png)
-
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_mobileimages/View_Report_4.png">
 If the tests are complete, it will disappear from the Running Tests tab. 
 
-![](Aspose.Words.9669dacf-cbe9-43ca-9e35-18f0bd3278e7.059.png)
-
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_mobileimages/View_Report_5.png">
 Click on the Test Results tab and click on the highlighted icon to see the detailed steps of each action with screenshots. 
 
-![](Aspose.Words.9669dacf-cbe9-43ca-9e35-18f0bd3278e7.060.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_mobileimages/View_Report_6.png">
 
 ## **Scheduling Test Executions**
 
 **Note:** Scheduling test takes place when you “Execute Run”
 
-![](Aspose.Words.9669dacf-cbe9-43ca-9e35-18f0bd3278e7.044.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_mobileimages/Schedule_1.png">
 
 Click on “Advanced Options”
 
-![](Aspose.Words.9669dacf-cbe9-43ca-9e35-18f0bd3278e7.061.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_mobileimages/Schedule_2.png">
 
 Select the toggle for the “Schedule Type”
 
-![](Aspose.Words.9669dacf-cbe9-43ca-9e35-18f0bd3278e7.062.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_mobileimages/Schedule_3.png">
 
 The toggle will prompt you with two options: **Schedule Once** and **Schedule Repeat**
 
-![](Aspose.Words.9669dacf-cbe9-43ca-9e35-18f0bd3278e7.063.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_mobileimages/Schedule_4.png">
 
 For ***Schedule Once***, choose your date, time zone and time
 
-![](Aspose.Words.9669dacf-cbe9-43ca-9e35-18f0bd3278e7.064.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_mobileimages/Schedule_5.png">
 
 For ***Schedule Repeat***, you have the option to run your script Weekly, Daily, and Hourly.
 
 For ***Weekly***, check the box with the days you want to run your tests with the time, time zone, and end date.
 
-![](Aspose.Words.9669dacf-cbe9-43ca-9e35-18f0bd3278e7.065.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_mobileimages/Schedule_6.png">
 
 For ***Daily*** and ***Hourly***, fill out the time, time zone, and end date
 
-![](Aspose.Words.9669dacf-cbe9-43ca-9e35-18f0bd3278e7.066.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_mobileimages/Schedule_7.png">
 
 # **Other**
 
@@ -504,34 +494,35 @@ Qyrus allows for steps to be parameterized. This allows the user a more dynamic 
 ### **Marking Steps for Parameterization**
 To mark a step for parameterization, simply click the “Parameterize” button and ensure it is highlighted. Then, give a name for the parameter data column. This will show up in the downloaded parameter file. Make sure to save the test before continuing.
 
-![](Aspose.Words.9669dacf-cbe9-43ca-9e35-18f0bd3278e7.067.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_mobileimages/Param_1.png">
+
 ### **Downloading, Adding Data, and Uploading File** 
 Afterwards the user will be able to download the parameter file. 
 
 1. Click on the ‘Parameterize File’ button.
 
-![](Aspose.Words.9669dacf-cbe9-43ca-9e35-18f0bd3278e7.068.png) 
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_mobileimages/Param_2.png">
 
 1. Click ‘Download File’ 
 
-![](Aspose.Words.9669dacf-cbe9-43ca-9e35-18f0bd3278e7.069.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_mobileimages/Param_3.png">
 
 1. Open the xslx file that was downloaded
 1. In the first column enter the test case names
 1. Enter your data for the next columns. The column names will be populated based on the names you provided in the Data Column field for each step
 1. Enter a ~ symbol for that test case to skip that step when running the script
 
-![](Aspose.Words.9669dacf-cbe9-43ca-9e35-18f0bd3278e7.070.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_mobileimages/Param_4.png">
 
 1. When you are finished filling out the data, click on the ‘Choose File’’ button
 1. Select the xslx file
 1. Click on ‘Upload File’
 
-![](Aspose.Words.9669dacf-cbe9-43ca-9e35-18f0bd3278e7.071.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_mobileimages/Param_5.png">
 
 1. When done successfully, you will see the messages as shown below
 
-![](Aspose.Words.9669dacf-cbe9-43ca-9e35-18f0bd3278e7.072.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_mobileimages/Param_6.png">
 ## **Using Healer**
 Healer is an advanced AI tool that users can enable before they execute their test scripts. It helps prevent test flakiness and brittleness. Healer gives a response on a failing test that provides the user with the element information needed in order to fix their broken test. Below will be an example of running tests with Healer enabled. 
 ### **Prerequisites**
@@ -544,35 +535,35 @@ Healer is an advanced AI tool that users can enable before they execute their te
 ### **Setup**
 1. Navigate inside your completed script. We will use this one step script as an example
 
-![](Aspose.Words.9669dacf-cbe9-43ca-9e35-18f0bd3278e7.073.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_mobileimages/Healer_1.png">
 
 1. Execute run the script
 1. Click the toggle to turn healer on or off. At default, healer will be on
 
-![](Aspose.Words.9669dacf-cbe9-43ca-9e35-18f0bd3278e7.074.png) 
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_mobileimages/Healer_2.png">
 
 1. Execute the script
 1. In the reports section, the ‘Bandage’ symbol will indicate that healer was used for the script
    1. **Note**: Script must pass in order for healer to have a baseline
 
-![](Aspose.Words.9669dacf-cbe9-43ca-9e35-18f0bd3278e7.075.png) 
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_mobileimages/Healer_3.png">
 ### **Usage**
 When element locators change, healer will return the correct element locator value which would correctly navigate through the application as it normally does. To show this, we will change an element locator value in the script to an incorrect value. 
 
 1. Navigate back into the test script and change the element value to an incorrect one.
    1. Example: com.ctclogindemo:id/et\_username -> com.ctclogindemo:id/et\_user
 
-![](Aspose.Words.9669dacf-cbe9-43ca-9e35-18f0bd3278e7.076.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_mobileimages/Healer_4.png">
 
 1. Execute run the script with the healer option turned on
 1. Go inside the failed test
 1. Click on the ‘Healer’ button in the Actions section
 
-![](Aspose.Words.9669dacf-cbe9-43ca-9e35-18f0bd3278e7.077.png) 
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_mobileimages/Healer_5.png">
 
 1. The Healer Response shows the correct value of the element
 
-![](Aspose.Words.9669dacf-cbe9-43ca-9e35-18f0bd3278e7.078.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_mobileimages/Healer_6.png">
 
 1. Replace the element locator value in the script with this value in order for the script to correctly navigate through the application
 ## **Verify OTP**
@@ -587,29 +578,29 @@ This section will show how to enable the ‘Verify OTP’ action if your scripts
 
 1. In your script, add a step with the action type ‘Verify Otp’
 
-![](Aspose.Words.9669dacf-cbe9-43ca-9e35-18f0bd3278e7.079.png) 
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_mobileimages/Verify_1.png"> 
 ### **Usage**
 
 1. Run the script with either ‘Dry Run’ or ‘Execute Run’
 1. Enable the ‘OTP’ option
 
-![](Aspose.Words.9669dacf-cbe9-43ca-9e35-18f0bd3278e7.080.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_mobileimages/Verify_2.png"> 
 
 1. While the script is running, click on the ‘Verify OTP’ button. 
 
-![](Aspose.Words.9669dacf-cbe9-43ca-9e35-18f0bd3278e7.081.png) 
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_mobileimages/Verify_3.png">  
 
 1. Enter the one-time password
 
-` `![](Aspose.Words.9669dacf-cbe9-43ca-9e35-18f0bd3278e7.082.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_mobileimages/Verify_4.png"> 
 
 1. Click the ‘green checkmark’ button
 
-![](Aspose.Words.9669dacf-cbe9-43ca-9e35-18f0bd3278e7.083.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_mobileimages/Verify_5.png"> 
 
 1. When done successfully, you will see the success message as shown below
 
-![](Aspose.Words.9669dacf-cbe9-43ca-9e35-18f0bd3278e7.084.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_mobileimages/Verify_6.png"> 
 ## **Marking Script for Component Importing**
 Qyrus allows users to reuse test scripts across multiple different solutions. Users are able to move test scripts from the Mobility over to Component Testing pretty easily. 
 ### **Prerequisites**
@@ -619,23 +610,23 @@ Qyrus allows users to reuse test scripts across multiple different solutions. U
 ### **Usage**
 1. Click on the ‘more options’ button for the script that you want to import
 
-![](Aspose.Words.9669dacf-cbe9-43ca-9e35-18f0bd3278e7.085.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_mobileimages/Marking_Script_1.png"> 
 
 1. ` `Click on ‘Mark As Component’ option
 
-![](Aspose.Words.9669dacf-cbe9-43ca-9e35-18f0bd3278e7.086.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_mobileimages/Marking_Script_2.png">
 
 1. When done correctly, the script will have this ‘Flag’ symbol
 
-![](Aspose.Words.9669dacf-cbe9-43ca-9e35-18f0bd3278e7.087.png) 
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_mobileimages/Marking_Script_3.png"> 
 
 1. Go to Component Testing and click the “Import Scripts” button. 
 
-![](Aspose.Words.9669dacf-cbe9-43ca-9e35-18f0bd3278e7.088.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_mobileimages/Marking_Script_4.png">
 
 1. Then, select Mobility, whichever scripts to import, and click the “Import” button.
 
-![](Aspose.Words.9669dacf-cbe9-43ca-9e35-18f0bd3278e7.089.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_mobileimages/Marking_Script_5.png">
 ## **Using Dynamic Action Types**
 Qyrus allows users to create variables during test execution and use those values dynamically to perform a wide variety of actions. For a full list of actions, visit our Action Types Documentation (link here). 
 ### **Perquisites**

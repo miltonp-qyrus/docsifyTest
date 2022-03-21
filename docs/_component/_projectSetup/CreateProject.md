@@ -7,7 +7,7 @@ There are two ways to create a new project in the component service.
 
 **Create Project** – click on either the create project button or the empty space to create a new project, fill out a project name, description, and who has access to your project
 
-![](../../_media/_componentimgs/Aspose.Words.2f572e7c-e1bc-424a-bb14-b916aa36d020.001.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_componentImgs/Aspose.Words.2f572e7c-e1bc-424a-bb14-b916aa36d020.001.png">
 
 **Note**: Different Roles for who has access to the project
 - **Designer** - design components and test (cannot approve)

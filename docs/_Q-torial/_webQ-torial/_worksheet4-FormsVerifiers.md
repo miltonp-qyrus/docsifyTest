@@ -1,7 +1,7 @@
 ## Forms & Verifiers - Worksheet IV
 
 <video width="600px" height="400px" controls>
-  <source src="/_webrepo/_projectcreation/../../_media/_videos/_webVideos/Clip11-worksheet4.mp4" type="video/mp4">
+  <source src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/Web/Clip11-worksheet4.mp4" type="video/mp4">
 </video>
 
 Forms and Verifiers – Worksheet IV

@@ -12,6 +12,6 @@ This is where you are going to combine both the device pool and file management
 1. Select the application test you have uploaded
 1. From the list of devices you copy the device to the clipboard
 
-![](../../../_media/_componentimgs/Aspose.Words.2f572e7c-e1bc-424a-bb14-b916aa36d020.006.png)
+<img src="https://dmdug58z0ycm2.cloudfront.net/production/pub-site/images/_componentImgs/Aspose.Words.2f572e7c-e1bc-424a-bb14-b916aa36d020.006.png">
 
 **Note:** For more information on devices checkout **Mobility** in the documentation
