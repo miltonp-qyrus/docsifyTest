@@ -1,7 +1,7 @@
  const keycloakAuth = 
 {
-    url: 'http://keycloak:8180/auth',
-    realm: 'SpringBoot',
-    clientId: 'test',
+    url: 'https://sso.quinnox.info',
+    realm: 'qyrus-public-cloud',
+    //clientId: 'test',
    
 }
