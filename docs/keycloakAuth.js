@@ -1,7 +1,10 @@
  const keycloakAuth = 
 {
-    url: 'https://sso.quinnox.info',
-    realm: 'qyrus-public-cloud',
-    //clientId: 'test',
+    //Use for public cloud hosting
+     url: 'https://sso.quinnox.info/auth/',
+     realm: 'ctc-master', 
+     clientId: 'ctc-ui',
+     
+
    
 }
