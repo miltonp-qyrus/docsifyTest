@@ -2,9 +2,9 @@
 {
     //Use for public cloud hosting
      url: 'https://sso.quinnox.info/auth/',
-     realm: 'ctc-master', 
-     clientId: 'ctc-ui',
-     
+     realm: 'qyrus-public-cloud', 
+     clientId: 'ctc-docs',
+     redirectUri: 'https://docs.qyrus.com'
 
    
 }
