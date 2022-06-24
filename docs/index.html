@@ -17,6 +17,21 @@
   <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/keycloak-js@11.0.3/dist/keycloak.min.js"></script>
   <script type="text/javascript" src="./keycloakAuth.js"></script> 
 
+  <script type="text/javascript">
+   
+    function initKeycloak() 
+   {
+       console.log("here")
+       const keycloak = new Keycloak(keycloakAuth);
+       keycloak.init({onLoad: 'login-required'}).then(function(authenticated) {
+       console.log(authenticated);
+           alert(authenticated ? 'authenticated' : 'not authenticated');
+       }).catch(function() {
+           alert('failed to initialize');
+       });
+   } 
+   initKeycloak(); 
+ </script>   
   <!-- <style type="text/css">
     .sidebar li {
       margin: 0;
@@ -47,7 +62,7 @@
       
       routerMode: 'history',
       auto2top: true,
-      coverpage: true,
+      coverpage: false,
       loadSidebar: true,
       // autoHeader: true,
       executeScript: true,
@@ -57,7 +72,8 @@
       name: 'Qyrus',
       namelink: 'https://testcloud.quinnox.info',
       sidebarDisplaylevel: 1,
-      relativePath: true
+      relativePath: true,
+      homepage: 'http://localhost:3000/_webrepo/_gettingstarted/Overview'
     
     };
   </script>
