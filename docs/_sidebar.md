@@ -4,11 +4,11 @@
 - **Web Repository**
 
     - **Getting Started**
-        - [Overview](/_webrepo/_gettingstarted/Overview.md)
-        - [Web Repository Basics](/_webrepo/_gettingstarted/WebRepoBasics.md)
-        - [Test Setup & Building](/_webrepo/_gettingstarted/TestSetupBuilding.md)
-        - [Execution & Reports](/_webrepo/_gettingstarted/ExecutionReports.md)
-        - [Test Case Management](/_webrepo/_gettingstarted/TestCaseManagement.md)
+        - [Overview](/_webrepo/_gettingstarted/Overview)
+        - [Web Repository Basics](/_webrepo/_gettingstarted/WebRepoBasics)
+        - [Test Setup & Building](/_webrepo/_gettingstarted/TestSetupBuilding)
+        - [Execution & Reports](/_webrepo/_gettingstarted/ExecutionReports)
+        - [Test Case Management](/_webrepo/_gettingstarted/TestCaseManagement)
     
     - **Project Creation**
         - [Project Creation](/_webrepo/_projectcreation/ProjectCreation.md)
