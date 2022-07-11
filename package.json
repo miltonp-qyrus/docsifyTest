@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "deploy": "touch ./docs/.nojekyll && gh-pages -d docs -t true",
   "directories": {
     "doc": "docs"
   },
