@@ -14,24 +14,9 @@
   <script src="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/js/docsify-themeable.min.js"></script>
   <link rel="stylesheet" href="them-custom.css">
 
-  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/keycloak-js@11.0.3/dist/keycloak.min.js"></script>
-  <script type="text/javascript" src="./keycloakAuth.js"></script> 
+ 
 
- <!-- <script type="text/javascript">
-   
-    function initKeycloak() 
-   {
-       console.log("here")
-       const keycloak = new Keycloak(keycloakAuth);
-       keycloak.init({onLoad: 'login-required'}).then(function(authenticated) {
-       console.log(authenticated);
-           alert(authenticated ? 'authenticated' : 'not authenticated');
-       }).catch(function() {
-           alert('failed to initialize');
-       });
-   } 
-   initKeycloak(); 
- </script>   -->
+ 
   <!-- <style type="text/css">
     .sidebar li {
       margin: 0;
@@ -60,17 +45,15 @@
   <script>
     window.$docsify = {
       
-      routerMode: 'history',
-     
+      routerMode: 'hash',
       auto2top: true,
       coverpage: true,
       loadSidebar: true,
-      alias: {
-            '/.*/_sidebar.md': '/_sidebar.md'
-        },
-      executeScript: true,
+      // autoHeader: true,
+      //executeScript: true,
       subMaxLevel: 4,
       onlyCover: true,
+      // logo: '_media/Qyrussidebar.jpg',
       name: 'Qyrus',
       namelink: 'https://testcloud.quinnox.info',
       sidebarDisplaylevel: 1,

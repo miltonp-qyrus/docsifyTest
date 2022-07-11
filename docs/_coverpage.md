@@ -12,4 +12,4 @@
 
 
 
-[Get Started](/index.html)
+[Get Started](/README.md)
