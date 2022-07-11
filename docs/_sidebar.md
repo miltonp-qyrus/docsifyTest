@@ -11,105 +11,102 @@
         - [Test Case Management](/_webrepo/_gettingstarted/TestCaseManagement)
     
     - **Project Creation**
-        - [Project Creation](/_webrepo/_projectcreation/ProjectCreation.md)
+        - [Project Creation](/_webrepo/_projectcreation/ProjectCreation)
 
     - **Project Setup**
-        - [Global Variables](/_webrepo/_projectsetup/GlobalVars.md)
-        - [Run Configurations](/_webrepo/_projectsetup/RunConfigs.md)
-        - [Integrations](/_webrepo/_projectsetup/Integrations.md)
-        - [Database Configurations](/_webrepo/_projectsetup/DatabaseConfig.md)
+        - [Global Variables](/_webrepo/_projectsetup/GlobalVars)
+        - [Run Configurations](/_webrepo/_projectsetup/RunConfigs)
+        - [Integrations](/_webrepo/_projectsetup/Integrations)
+        - [Database Configurations](/_webrepo/_projectsetup/DatabaseConfig)
 
     - **Test Repository**
-        - [Creating Modules](/_webrepo/_testrepo/ModuleCreation.md)
-        - [Creating Scripts](/_webrepo/_testrepo/ScriptCreation.md)
-        - [Creating Steps](/_webrepo/_testrepo/StepCreation.md)
-        - [Encapsulate](/_webrepo/_testrepo/Encapsulate.md)
-        - [Dry Running](/_webrepo/_testrepo/DryRun.md)
-        - [Reports](/_webrepo/_testrepo/Reports.md)
-        - [Versioning and Restoring](/_webrepo/_testrepo/Versioning.md)
+        - [Creating Modules](/_webrepo/_testrepo/ModuleCreation)
+        - [Creating Scripts](/_webrepo/_testrepo/ScriptCreation)
+        - [Creating Steps](/_webrepo/_testrepo/StepCreation)
+        - [Encapsulate](/_webrepo/_testrepo/Encapsulate)
+        - [Dry Running](/_webrepo/_testrepo/DryRun)
+        - [Reports](/_webrepo/_testrepo/Reports)
+        - [Versioning and Restoring](/_webrepo/_testrepo/Versioning)
    
     - **Sprints**
-        - [Creating Sprints](/_webrepo/_sprints/SprintCreation.md)
-        - [Importing Scripts](/_webrepo/_sprints/ImportScripts.md)
-        - [Starting the Sprint](/_webrepo/_sprints/StartSprint.md)
-        - [Test Execution & Reports](/_webrepo/_sprints/ExecuteReports.md)
+        - [Creating Sprints](/_webrepo/_sprints/SprintCreation)
+        - [Importing Scripts](/_webrepo/_sprints/ImportScripts)
+        - [Starting the Sprint](/_webrepo/_sprints/StartSprint)
+        - [Test Execution & Reports](/_webrepo/_sprints/ExecuteReports)
 
     - **Test Lab**
-        - [Creating Suites](/_webrepo/_testlab/SuiteCreation.md)
-        - [Importing Scripts](/_webrepo/_testlab/ImportScripts.md)
-        - [Scheduling Runs](/_webrepo/_testlab/ScheduleRuns.md)
-        - [Test Execution & Reports](/_webrepo/_testlab/ExecuteReports.md)
+        - [Creating Suites](/_webrepo/_testlab/SuiteCreation)
+        - [Importing Scripts](/_webrepo/_testlab/ImportScripts)
+        - [Scheduling Runs](/_webrepo/_testlab/ScheduleRuns)
+        - [Test Execution & Reports](/_webrepo/_testlab/ExecuteReports)
 
     - **Other**
-        - [Using Healer](/_webrepo/_webother/Healer.md)
-        - [Verify OTP](/_webrepo/_webother/VerifyOTP.md)
-        -[Parameterizing Tests](/_webrepo/_webother/ParameterizeTests.md)
-        - [Using Dynamic Action Types](/_webrepo/_webother/DynamicActionTypes.md)
-        - [Marking Script for Component Importing](/_webrepo/_webother/MarkScriptComponent.md)
-        - [Branching Scripts](/_webrepo/_webother/Branching.md)
-        - [Mind Maps](/_webrepo/_webother/MindMaps.md)
+        - [Using Healer](/_webrepo/_webother/Healer)
+        - [Verify OTP](/_webrepo/_webother/VerifyOTP)
+        -[Parameterizing Tests](/_webrepo/_webother/ParameterizeTests)
+        - [Using Dynamic Action Types](/_webrepo/_webother/DynamicActionTypes)
+        - [Marking Script for Component Importing](/_webrepo/_webother/MarkScriptComponent)
+        - [Branching Scripts](/_webrepo/_webother/Branching)
+        - [Mind Maps](/_webrepo/_webother/MindMaps)
 
 ---
 
 - **Mobile Testing**
 
     - **Getting Started** 
-        - [Overivew](/_mobility/_gettingstarted/Overview.md) 
-        - [Mobile Basics](/_mobility/_gettingstarted/Basics.md)
+        - [Overivew](/_mobility/_gettingstarted/Overview) 
+        - [Mobile Basics](/_mobility/_gettingstarted/Basics)
 
     - **Test Setup & Building**
-        - [Project Creation](/_mobility/_testsetupbuilding/ProjectCreation.md)
-        - [Test Suites](/_mobility/_testsetupbuilding/TestSuites.md)
-        - [Project Setup](/_mobility/_testsetupbuilding/ProjectSetup.md)
-        - [Test Scripts](/_mobility/_testsetupbuilding/TestScripts.md)
-        - [Adding Test Script Steps](/_mobility/_testsetupbuilding/AddingTestScripSteps.md)
+        - [Project Creation](/_mobility/_testsetupbuilding/ProjectCreation)
+        - [Test Suites](/_mobility/_testsetupbuilding/TestSuites)
+        - [Project Setup](/_mobility/_testsetupbuilding/ProjectSetup)
+        - [Test Scripts](/_mobility/_testsetupbuilding/TestScripts)
+        - [Adding Test Script Steps](/_mobility/_testsetupbuilding/AddingTestScripSteps)
 
     - **Executing Tests & Viewing Reports**
-        - [Prerequisites](/_mobility/_executeviewreports/Prerequisites.md)
-        - [Execute Test/Dry Run](/_mobility/_executeviewreports/ExecuteTest.md)
-        - [View Reports](/_mobility/_executeviewreports/ViewReport.md)
-        - [Schedule Run](/_mobility/_executeviewreports/ScheduleRun.md)
-
-    - **Other**
-        - [Parameterizing Testing](/_mobility/_other/ParamTest.md)
-        - [Using Healer](/_mobility/_other/Healer.md)
-        - [Verify OTP](/_mobility/_other/VerifyOTP.md)
-        - [Marking Script for Component Importing](/_mobility/_other/MarkingScript.md)
-        - [Using Dynamic Action Types](/_mobility/_other/DynamicAction.md) 
+        - [Prerequisites](/_mobility/_executeviewreports/Prerequisites)
+        - [Execute Test/Dry Run](/_mobility/_executeviewreports/ExecuteTest)
+        - [View Reports](/_mobility/_executeviewreports/ViewReport)
+        - [Schedule Run](/_mobility/_executeviewreports/ScheduleRun)
+        - [Using Healer](/_mobility/_other/Healer)
+        - [Verify OTP](/_mobility/_other/VerifyOTP)
+        - [Marking Script for Component Importing](/_mobility/_other/MarkingScript)
+        - [Using Dynamic Action Types](/_mobility/_other/DynamicAction) 
 
 ---
 
 - **API Testing**
 
     -  **Getting Started** 
-        - [Overview](/_api/_getttingStarted/Introduction.md)
-        - [API Basics](/_api/_getttingStarted/APIBasics.md)
-        - [Create Project](/_api/_getttingStarted/CreateProject.md)
-        - [Functional Testing](/_api/_getttingStarted/_functionalTesting/FunctionalTesting.md)
-        - [Performance Testing](/_api/_getttingStarted/_performanceTesting/PerformanceTest.md)
-        - [API Process](/_api/_getttingStarted/_apiProcess/APIProcess.md)
+        - [Overview](/_api/_getttingStarted/Introduction)
+        - [API Basics](/_api/_getttingStarted/APIBasics)
+        - [Create Project](/_api/_getttingStarted/CreateProject)
+        - [Functional Testing](/_api/_getttingStarted/_functionalTesting/FunctionalTesting)
+        - [Performance Testing](/_api/_getttingStarted/_performanceTesting/PerformanceTest)
+        - [API Process](/_api/_getttingStarted/_apiProcess/APIProcess)
 
     -  **Project Setup**
-        - [Create Project](/_api/_projectSetup/CreateProject.md)
-        - [Create Suite](/_api/_projectSetup/CreateTestSuite.md)
-        - [Adding Certificates](/_api/_projectSetup/AddCertificates.md)
-        - [Global Variables](/_api/_projectSetup/GlobalVariables.md)
+        - [Create Project](/_api/_projectSetup/CreateProject)
+        - [Create Suite](/_api/_projectSetup/CreateTestSuite)
+        - [Adding Certificates](/_api/_projectSetup/AddCertificates)
+        - [Global Variables](/_api/_projectSetup/GlobalVariables)
 
     - **API Functional Testing**
-        - [Create Test Scripts](_api/_APIFunctionaltesting/CreateTestScripts.md)
-        - [Execution And Reports](_api/_APIFunctionaltesting/ExecutionAndReports.md)
-        - [Other](_api/_APIFunctionaltesting/StepsSpecific.md)
+        - [Create Test Scripts](_api/_APIFunctionaltesting/CreateTestScripts)
+        - [Execution And Reports](_api/_APIFunctionaltesting/ExecutionAndReports)
+        - [Other](_api/_APIFunctionaltesting/StepsSpecific)
 
     - **API Performance Testing** 
-        - [Create Project](_api/_APIPerformance/CreateProject.md)
-        - [Create Suite](_api/_APIPerformance/CreateTestSuite.md)
-        - [Create Test Scripts](_api/_APIPerformance/TestScripts.md)
+        - [Create Project](_api/_APIPerformance/CreateProject)
+        - [Create Suite](_api/_APIPerformance/CreateTestSuite)
+        - [Create Test Scripts](_api/_APIPerformance/TestScripts)
 
     - **API Processing**
-        - [API Processing](_api/_APIProcessTesting/APIProcess.md)
+        - [API Processing](_api/_APIProcessTesting/APIProcess)
 
     - **Other**
-        - [SOAP and GraphQL](_api/_other/OtherOverview.md)
+        - [SOAP and GraphQL](_api/_other/OtherOverview)
 
 ---
 
@@ -117,36 +114,36 @@
 - **Component Testing**
 
     -  **Getting Started**
-        - [Overview](/_component/_gettingStarted/Overview.md)
-        - [Component Basics](/_component/_gettingStarted/ComponentBasics.md)
+        - [Overview](/_component/_gettingStarted/Overview)
+        - [Component Basics](/_component/_gettingStarted/ComponentBasics)
 
     -  **Project Setup** <!--not bolding -->
-        - [Create Project](/_component/_projectSetup/CreateProject.md)
-        - [Import Script](/_component/_projectSetup/ImportScripts.md)
+        - [Create Project](/_component/_projectSetup/CreateProject)
+        - [Import Script](/_component/_projectSetup/ImportScripts)
     
     - **Configurations**
-        - [Configuration Details](/_component/_projectSetup/_configuration/ConfigurationDetails.md)
-        - [Device Pool](/_component/_projectSetup/_configuration/DevicePool.md)
-        - [File Management](/_component/_projectSetup/_configuration/FileManagement.md)
-        - [Remote Device](/_component/_projectSetup/_configuration/RemoteDevice.md)
-        - [Database Configuration](/_component/_projectSetup/_configuration/DatabaseConfig.md)
-        - [Global Variables](/_component/_projectSetup/_configuration/GlobalVariables.md)
+        - [Configuration Details](/_component/_projectSetup/_configuration/ConfigurationDetails)
+        - [Device Pool](/_component/_projectSetup/_configuration/DevicePool)
+        - [File Management](/_component/_projectSetup/_configuration/FileManagement)
+        - [Remote Device](/_component/_projectSetup/_configuration/RemoteDevice)
+        - [Database Configuration](/_component/_projectSetup/_configuration/DatabaseConfig)
+        - [Global Variables](/_component/_projectSetup/_configuration/GlobalVariables)
 
     - **Design Components**
-        - [Design Components](_component/_designComponents/DesignComponentSpecifics.md)
-        - [Quick Run](_component/_designComponents/QuickRunStatus.md)
-        - [Approval Process](_component/_designComponents/UserRoles.md)
-        - [Test Comparisons](_component/_designComponents/TestComparisons.md)
+        - [Design Components](_component/_designComponents/DesignComponentSpecifics)
+        - [Quick Run](_component/_designComponents/QuickRunStatus)
+        - [Approval Process](_component/_designComponents/UserRoles)
+        - [Test Comparisons](_component/_designComponents/TestComparisons)
 
     - **Tests**
-        - [Creating Tests](_component/_tests/CreatingTests.md)
-        - [Adding Components](_component/_tests/AddingComponents.md)
-        - [Wiring Components](_component/_tests/WiringComponents.md)
-        - [Data Handlers](_component/_tests/DataHandlers.md)
+        - [Creating Tests](_component/_tests/CreatingTests)
+        - [Adding Components](_component/_tests/AddingComponents)
+        - [Wiring Components](_component/_tests/WiringComponents)
+        - [Data Handlers](_component/_tests/DataHandlers)
 
     - **Results** 
-        - [Execution Summary and Reports](_component/_results/ExecutionSummaryReports.md)
-        - [Test Reports Table](_component/_results/TestReportsTable.md)
+        - [Execution Summary and Reports](_component/_results/ExecutionSummaryReports)
+        - [Test Reports Table](_component/_results/TestReportsTable)
 
 --- 
 
@@ -154,19 +151,19 @@
 - **Q-Torial**
     - **Web Testing**
 
-        - [Introduction](_Q-torial/_webQ-torial/_introduction.md)
-        - [Worksheet II](_Q-torial/_webQ-torial/_worksheet2-Login.md)
-        - [Worksheet III](_Q-torial/_webQ-torial/_worksheet3-MouseVerifiers.md)
-        - [Worksheet IV](_Q-torial/_webQ-torial/_worksheet4-FormsVerifiers.md)
-        - [Worksheet V](_Q-torial/_webQ-torial/_worksheet5-DataHandlers.md)
-        - [Summary](_Q-torial/_webQ-torial/_summary.md)
+        - [Introduction](_Q-torial/_webQ-torial/_introduction)
+        - [Worksheet II](_Q-torial/_webQ-torial/_worksheet2-Login)
+        - [Worksheet III](_Q-torial/_webQ-torial/_worksheet3-MouseVerifiers)
+        - [Worksheet IV](_Q-torial/_webQ-torial/_worksheet4-FormsVerifiers)
+        - [Worksheet V](_Q-torial/_webQ-torial/_worksheet5-DataHandlers)
+        - [Summary](_Q-torial/_webQ-torial/_summary)
 
     - **Mobility Testing**
 
-        - [Introduction](_Q-torial/_mobilityQ-torial/_introduction.md)
-        - [Worksheet I](_Q-torial/_mobilityQ-torial/_worksheet1-InspectMode.md)
-        - [Worksheet II](_Q-torial/_mobilityQ-torial/_worksheet2-RecorderMode.md)
-        - [Conclusion](_Q-torial/_mobilityQ-torial/_conclusion.md)
+        - [Introduction](_Q-torial/_mobilityQ-torial/_introduction)
+        - [Worksheet I](_Q-torial/_mobilityQ-torial/_worksheet1-InspectMode)
+        - [Worksheet II](_Q-torial/_mobilityQ-torial/_worksheet2-RecorderMode)
+        - [Conclusion](_Q-torial/_mobilityQ-torial/_conclusion)
 
     <!-- - **Component Testing**
         - [Introduction](_Q-torial/_ComponentQ-torial/_introduction.md)
@@ -181,16 +178,16 @@
 - **Service Virtualization**
 
     - **Getting Started**
-        - [Overview](_serviceVirtual/_gettingStarted/Overview.md)
-        - [Create Project](_serviceVirtual/_gettingStarted/CreateProject.md)
+        - [Overview](_serviceVirtual/_gettingStarted/Overview)
+        - [Create Project](_serviceVirtual/_gettingStarted/CreateProject)
 
     - **Assets**
-        - [Asset Folder Creation](_serviceVirtual/_assets/AssetFolderCreation.md)
-        - [Asset Creation](_serviceVirtual/_assets/AssetCreation.md)
-        - [Asset Online](_serviceVirtual/_assets/AssetOnlineAndUsage.md)
+        - [Asset Folder Creation](_serviceVirtual/_assets/AssetFolderCreation)
+        - [Asset Creation](_serviceVirtual/_assets/AssetCreation)
+        - [Asset Online](_serviceVirtual/_assets/AssetOnlineAndUsage)
         
     - **Other**
-        - [Global Variables](_serviceVirtual/_other/GlobalVariables.md)
+        - [Global Variables](_serviceVirtual/_other/GlobalVariables)
 
 ---
 
@@ -198,72 +195,67 @@
 - **Device Farm**
 
     - **Getting Started** 
-        - [Overview](_devicefarm/_gettingstarted/Overview.md)
+        - [Overview](_devicefarm/_gettingstarted/Overview)
 
     - **Creating Project**
-        - [Creating a Project](_devicefarm/_createproject/CreateProject.md)
+        - [Creating a Project](_devicefarm/_createproject/CreateProject)
 
     - **Project Setup**
-        - [Application Files](_devicefarm/_projectsetup/AppFiles.md)
-        - [Authentication](_devicefarm/_projectsetup/Authentication.md)
-        - [Integrations](_devicefarm/_projectsetup/Integrations.md)
-        - [Network Profiles](_devicefarm/_projectsetup/NetworkProfiles.md)
-        - [Remote Devices](_devicefarm/_projectsetup/RemoteDevices.md)
-        - [Swagger Docs](_devicefarm/_projectsetup/SwaggerDocs.md)
+        - [Application Files](_devicefarm/_projectsetup/AppFiles)
+        - [Authentication](_devicefarm/_projectsetup/Authentication)
+        - [Integrations](_devicefarm/_projectsetup/Integrations)
+        - [Network Profiles](_devicefarm/_projectsetup/NetworkProfiles)
+        - [Remote Devices](_devicefarm/_projectsetup/RemoteDevices)
+        - [Swagger Docs](_devicefarm/_projectsetup/SwaggerDocs)
 
     - **Sessions**
-        - [Manual Testing](_devicefarm/_sessions/Manual.md)
-        - [Automated Testing](_devicefarm/_sessions/Automated.md)
+        - [Manual Testing](_devicefarm/_sessions/Manual)
+        - [Automated Testing](_devicefarm/_sessions/Automated)
 
     - **Reporting**
-        - [Reports](_devicefarm/_reporting/Reports.md)
+        - [Reports](_devicefarm/_reporting/Reports)
 
 ---
 
 - **Webpage Performance**
 
     -   **Getting Started** 
-        - [Overview](/_webPerformance/_gettingStarted/Overview.md)
-        - [Webpage Performance Basics](/_webPerformance/_gettingStarted/Basics.md)
+        - [Overview](/_webPerformance/_gettingStarted/Overview)
+        - [Webpage Performance Basics](/_webPerformance/_gettingStarted/Basics)
 
     -  **Project Setup** <!--not bolding -->
-        - [Create Project](/_webPerformance/_projectSetup/CreateProject.md)
+        - [Create Project](/_webPerformance/_projectSetup/CreateProject)
         
     - **Tests**
-        - [Create Tests](/_webPerformance/_tests/Tests.md)
+        - [Create Tests](/_webPerformance/_tests/Tests)
     
 
     - **Executing Tests and Viewing Reports**
-        - [Execute Tests](/_webPerformance/_executeViewReports/ExecuteTest.md)
-        - [View Reports](/_webPerformance/_executeViewReports/Reports.md)
-
----
-
-- **API Monitoring**
-
+        - [Execute Tests](/_webPerformance/_executeViewReports/ExecuteTest)
+        - [View Reports](/_webPerformance/_executeViewReports/Reports)
     -  **Getting Started**
-        - [Overview](_apiMonitoring/_GettingStarted/Overview.md)
-        - [API Monitoring Basics](_apiMonitoring/_GettingStarted/ApiMonitoringBasics.md)
+        - [Overview](_apiMonitoring/_GettingStarted/Overview)
+        - [API Monitoring Basics](_apiMonitoring/_GettingStarted/ApiMonitoringBasics)
 
     - **Setting up an API**
-        - [API Setup](_apiMonitoring/_SettingupAPI/ApiSetup.md)
-        - [Create a Project and a Collection](_apiMonitoring/_SettingupAPI/CreateProjectorCollection.md)
+        - [API Setup](_apiMonitoring/_SettingupAPI/ApiSetup)
+        - [Create a Project and a Collection](_apiMonitoring/_SettingupAPI/CreateProjectorCollection)
 
         - **Adding Monitored APIs to a Collection** 
-            - [API addition](_apiMonitoring/_SettingupAPI/_AddingApitoCollection/AddingMonitoredApis.md) 
-            - [Monitored API Form](_apiMonitoring/_SettingupAPI/_AddingApitoCollection/MonitoredApiForm.md) 
-            - [Authorizations](_apiMonitoring/_SettingupAPI/_AddingApitoCollection/Authorizations.md) 
-            - [Headers](_apiMonitoring/_SettingupAPI/_AddingApitoCollection/Headers.md) 
+            - [API addition](_apiMonitoring/_SettingupAPI/_AddingApitoCollection/AddingMonitoredApis) 
+            - [Monitored API Form](_apiMonitoring/_SettingupAPI/_AddingApitoCollection/MonitoredApiForm) 
+            - [Authorizations](_apiMonitoring/_SettingupAPI/_AddingApitoCollection/Authorizations) 
+            - [Headers](_apiMonitoring/_SettingupAPI/_AddingApitoCollection/Headers) 
 
     - **Monitoring an API**
-        - [Monitoring an API](_apiMonitoring/MonitoringAPI.md)
+        - [Monitoring an API](_apiMonitoring/MonitoringAPI)
 
     - **Observations analysis and Metrics**
-        - [Metric Analysis](_apiMonitoring/_ObservationMetricsAnalysis/MetricAnalysisonApi.md)
-        - [Status Codes](_apiMonitoring/_ObservationMetricsAnalysis/StatusCodes.md)
-        - [Performance Index](_apiMonitoring/_ObservationMetricsAnalysis/PerformanceIndex.md)
-        - [Response Time Metrics](_apiMonitoring/_ObservationMetricsAnalysis/ResponseTimeMetrics.md)
-        - [Violations](_apiMonitoring/_ObservationMetricsAnalysis/Violations.md)
+        - [Metric Analysis](_apiMonitoring/_ObservationMetricsAnalysis/MetricAnalysisonApi)
+        - [Status Codes](_apiMonitoring/_ObservationMetricsAnalysis/StatusCodes)
+        - [Performance Index](_apiMonitoring/_ObservationMetricsAnalysis/PerformanceIndex)
+        - [Response Time Metrics](_apiMonitoring/_ObservationMetricsAnalysis/ResponseTimeMetrics)
+        - [Violations](_apiMonitoring/_ObservationMetricsAnalysis/Violations)
 
 ---
 
